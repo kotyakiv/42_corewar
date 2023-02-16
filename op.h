@@ -6,7 +6,7 @@
 /*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2013/10/04 11:33:27 by zaz               #+#    #+#             */
-/*   Updated: 2023/01/20 18:28:11 by ykot             ###   ########.fr       */
+/*   Updated: 2023/02/16 17:10:47 by ykot             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,7 +41,7 @@
 # define NAME_CMD_STRING	".name"
 # define COMMENT_CMD_STRING	".comment"
 
-# define REG_NUMBER			16
+# define REG_NUMBER			160
 
 # define CYCLE_TO_DIE		1536
 # define CYCLE_DELTA		50
