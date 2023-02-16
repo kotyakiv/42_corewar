@@ -29,9 +29,9 @@ void	error_label(char *er_str, char *label, t_data *data)
 {
 	ft_putstr_fd("Error", 2);
 	ft_putstr_fd(" - ", 2);
-	ft_putendl_fd(er_str, 2);
+	ft_putstr_fd(er_str, 2);
 	ft_putstr_fd(": ", 2);
-	ft_putstr_fd(label, 2);	
+	ft_putendl_fd(label, 2);
 	if (data)
 		free_data(data);
 	exit(1);

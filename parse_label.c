@@ -21,6 +21,12 @@ t_bool	is_label(char *line)
 		i++;
 	if (line[i] != LABEL_CHAR)
 		return (FALSE);
+	if (is_op(line) != ISNOTOP)
+	{
+		if (line[i + 1] == ' ' || line[i + 1] == '\t')
+			return (TRUE);
+		return (FALSE);
+	}
 	return (TRUE);
 }
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# valid files
+valid files
 
 for FILE in valid_asm/*.s; do
 	./myasm $FILE
@@ -29,20 +29,19 @@ done
 
 exit 0
 
-# invalid files
+invalid files
 
 for FILE in error_asm/*.s; do
-	./myasm $FILE
-	leaks -atExit -quiet -- "./myasm" "$FILE" >> "Leaks.txt"
+	./ofasm $FILE
+	#leaks -atExit -quiet -- "./myasm" "$FILE" >> "Leaks.txt"
 done
 
 # find leaks
 
 cat Leaks.txt | grep " leaks"
 
+exit 0
 # clean all .cor files
 
 rm valid_asm/of_valid/*.cor
 rm valid_asm/my_valid/*.cor
-
-# leaks -atExit -quiet -- "$LEM_IN_BINARY" < "$f" >> "$RESULT_FILE"
