@@ -5,57 +5,33 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/11/17 23:12:01 by ykot              #+#    #+#             */
-/*   Updated: 2023/01/31 16:53:38 by ykot             ###   ########.fr       */
+/*   Created: 2023/02/16 22:09:16 by ykot              #+#    #+#             */
+/*   Updated: 2023/02/16 23:22:08 by ykot             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "asm.h"
+#include "disasm.h"
 
-/* Check result of reading the line */
-int8_t	check_gnl(t_data *data, int8_t gnl, char **line)
+void	reverse_bytes(u_int8_t *bytes, u_int8_t size)
 {
-	if (gnl == 1)
-		return (1);
-	if (gnl == 0)
-		return (0);
-	ft_strdel(line);
-	error(GNL_FAILED, data, POS);
-	return (-1);
-}
+	u_int8_t	temp;
+	u_int8_t	index;
+	u_int8_t	mid_position;
 
-void	ignore_whitespaces(t_data *data, char **str)
-{
-	while (**str == ' ' || **str == '\t')
+	index = 0;
+	mid_position = size / 2;
+	while (size > mid_position)
 	{
-		if (**str == '\t')
-			data->pos.c += 4;
-		else
-			data->pos.c++;
-		(*str)++;
+		size--;
+		temp = bytes[index];
+		bytes[index] = bytes[size];
+		bytes[size] = temp;
+		index++;
 	}
 }
 
-u_int8_t	is_empty_line(char *line)
+void	error(char *er_str)
 {
-	return (ft_strlen(line) == 0);
-}
-
-u_int8_t	is_comment_line(char *line)
-{
-	return (*line == COMMENT_CHAR);
-}
-
-t_bool	is_nbr(const char *str)
-{
-	u_int32_t	i;
-
-	i = 0;
-	if (str[i] == '-')
-		i++;
-	while (str[i] >= '0' && str[i] <= '9')
-		i++;
-	if ((i == 1 && str[0] != '-') || i > 1)
-		return (1);
-	return (0);
+	ft_putstr(er_str);
+	exit(1);
 }

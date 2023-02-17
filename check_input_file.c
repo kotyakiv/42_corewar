@@ -6,19 +6,19 @@
 /*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/19 16:02:58 by ykot              #+#    #+#             */
-/*   Updated: 2023/01/31 11:20:03 by ykot             ###   ########.fr       */
+/*   Updated: 2023/02/16 22:36:55 by ykot             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "asm.h"
+#include "disasm.h"
 
-/* input file isn't .s format */
+/* input file isn't .cor format */
 static u_int8_t	wrong_format(const char *str)
 {
 	u_int32_t	len;
 
 	len = ft_strlen(str);
-	return (!(len >= 3 && str[len - 1] == 's' && str[len - 2] == '.'));
+	return (!(len >= 5 && !ft_strncmp(str + len - 4, ".cor", 4)));
 }
 
 u_int8_t	check_input_file(int argc, char **argv)
@@ -29,8 +29,7 @@ u_int8_t	check_input_file(int argc, char **argv)
 		return (1);
 	}
 	if (argc > 2)
-		error(TOO_MANY_ARGS, NULL, NOPOS);
+		error(TOO_MANY_ARGS);
 	if (wrong_format(argv[1]))
-		error(WRONG_FORMAT, NULL, NOPOS);
-	return (0);
+		error("The file isn't .cor format");
 }
