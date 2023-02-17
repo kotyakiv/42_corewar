@@ -6,7 +6,7 @@
 /*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/16 21:53:15 by ykot              #+#    #+#             */
-/*   Updated: 2023/02/16 23:22:17 by ykot             ###   ########.fr       */
+/*   Updated: 2023/02/17 16:00:21 by ykot             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,11 +16,6 @@
 # include <fcntl.h>
 # include "libft.h"
 # include "op.h"
-# include "error_msgs_asm.h"
-
-# define ISNOTOP 17
-# define POS 1
-# define NOPOS 0
 
 typedef u_int8_t	t_bool;
 
@@ -54,16 +49,15 @@ static const t_op	g_optab[17] = {
 {0, 0, 0, {0}, 0, 0}
 };
 
-typedef struct	s_data
-{
-	u_int8_t	header;
-	char 		*str;
-	u_int32_t	ptr;
-	
-}				t_data;
-
 u_int8_t	check_input_file(int argc, char **argv);
-void	reverse_bytes(u_int8_t *bytes, u_int8_t size);
-void	error(char *er_str);
+void		error(char *er_str);
+u_int8_t	read_byte(int32_t fd);
+void		write_reg(u_int8_t reg);
+void		write_ind(int32_t nbr);
+void		write_dir(int32_t nbr);
+void		read_codes(int32_t fd, u_int8_t code[3]);
+int32_t		read_int(int32_t fd);
+int16_t		read_short(int32_t fd);
+void		disasm_opcode(int32_t fd, u_int8_t octet);
 
 #endif
