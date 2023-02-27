@@ -1,0 +1,78 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: briffard <briffard@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2023/02/19 13:59:01 by briffard          #+#    #+#              #
+#    Updated: 2023/02/19 14:24:27 by briffard         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+ASSEMBLER    := asm
+LIBFT   := libft.a
+
+#COMPILATION
+CC      := gcc
+CFLAGS  := -Wall -Werror -Wextra
+
+#INCLUDES
+INCL_ASM    := -I ./INCLUDES/
+
+#LIBRAIRIE
+INCL_LFT    := -I ../libft/
+LIB 		= -L ../libft/ -lft
+
+#CLEAN & FCLEAN
+RM_DIR  := rm -rf
+RM      := rm -f
+
+SRC_DIR := ./SRC/
+FILES    := 	assemble_header.c	\
+				assemble.c			\
+				check_data.c 		\
+				check_input_file.c	\
+				check_op_args.c		\
+				error_fn.c			\
+				free.c				\
+				main.c				\
+				parse_header.c		\
+				parse_label.c		\
+				parse_tokens.c		\
+				parsing.c			\
+				read_tokens.c		\
+				tokenization.c		\
+				utils_asm.c			\
+				utils.c				\
+				utils2.c			\
+
+#OBJECTS
+ASM_OBJ_DIR := ./OBJ/
+ASM_OBJ     := $(addprefix $(ASM_OBJ_DIR), $(FILES:%.c=%.o))
+
+all: $(ASSEMBLER)
+
+$(ASSEMBLER):  $(ASM_OBJ)
+	@$(CC) $(CFLAGS) -o $(ASSEMBLER) $(ASM_OBJ) $(LIB)
+
+$(ASM_OBJ_DIR)%.o:$(SRC_DIR)%.c
+	@make -sC ../libft/
+	@mkdir -p $(ASM_OBJ_DIR)
+	@$(CC) $(CFLAGS) $(INCL_LFT) $(INCL_ASM) -o $@ -c $<
+
+$(LIBFT):
+	@make -sC ../libft/
+
+clean:
+	make -sC ../libft/ clean
+	$(RM_DIR) $(ASM_OBJ_DIR) 
+
+fclean: clean
+	make -sC ../libft/ fclean
+	$(RM) $(ASM) 
+
+re: fclean all
+
+.PHONY: all clean fclean re

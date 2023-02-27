@@ -1,18 +1,18 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_lstnewptr.c                                     :+:      :+:    :+:   */
+/*   ft_lstnew_pointer.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: bkandemi <bkandemi@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 22:49:34 by bkandemi          #+#    #+#             */
-/*   Updated: 2023/01/20 23:54:16 by ykot             ###   ########.fr       */
+/*   Updated: 2022/09/30 22:50:28 by bkandemi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-t_list	*ft_lstnewptr(void *content)
+t_list	*ft_lstnew_pointer(void *content)
 {
 	t_list	*lstnew;
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: briffard <briffard@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/28 20:10:34 by ykot              #+#    #+#             */
-/*   Updated: 2023/01/30 16:38:20 by ykot             ###   ########.fr       */
+/*   Updated: 2023/02/19 12:32:22 by briffard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -85,7 +85,6 @@ char			**ft_strsplit(char const *s, char c);
 void			ft_strtoup(char *str);
 void			ft_strrev(char *str);
 int				ft_char_count(char *line, char c);
-int				is_char_in_str(char c, const char *str);
 
 /*
 **	Memory
@@ -122,6 +121,7 @@ int				ft_isascii(int c);
 int				ft_isprint(int c);
 int				ft_toupper(int c);
 int				ft_tolower(int c);
+int				is_char_in_str(char c, const char *str);
 
 /*
 **	Lists
@@ -139,7 +139,7 @@ size_t			ft_lstsize(t_list *begin_list);
 void			ft_lstdelelem(t_list **lst, size_t elem, \
 							void (*del)(void *, size_t));
 void			ft_lstaddelem(t_list **alst, t_list *new, size_t pos);
-t_list			*ft_lstnewptr(void *content);
+t_list			*ft_lstnew_pointer(void *content);
 
 /*
 **	Dynamic lists (double lists)
@@ -188,5 +188,10 @@ char			*ft_demtobase(unsigned long long num, int base);
 long long		ft_bigger(long long a, long long b);
 long double		ft_pow(long double base, int exp);
 int				ft_isint(const char *str);
+
+char			*ft_itoa_base_upper(uintmax_t nb, int base);
+double			ft_power(double nb, int power);
+long double		abs_value(long double nb_dbl, int *negative);
+char			*ft_itoa_base(uintmax_t nb, int base);
 
 #endif

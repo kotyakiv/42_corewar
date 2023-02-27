@@ -1,0 +1,5000 @@
+Writing output program to valid_asm/42.cor
+leaks Report Version: 4.0
+Process 9588: 161 nodes malloced for 14 KB
+Process 9588: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Asombra.cor
+leaks Report Version: 4.0
+Process 9591: 161 nodes malloced for 14 KB
+Process 9591: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Bazou.cor
+leaks Report Version: 4.0
+Process 9594: 161 nodes malloced for 14 KB
+Process 9594: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Car.cor
+leaks Report Version: 4.0
+Process 9597: 161 nodes malloced for 14 KB
+Process 9597: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Code_eater.cor
+leaks Report Version: 4.0
+Process 9600: 161 nodes malloced for 14 KB
+Process 9600: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Douceur_power.cor
+leaks Report Version: 4.0
+Process 9603: 161 nodes malloced for 14 KB
+Process 9603: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Eraser.cor
+leaks Report Version: 4.0
+Process 9606: 161 nodes malloced for 14 KB
+Process 9606: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Explosive_Kitty.cor
+leaks Report Version: 4.0
+Process 9609: 161 nodes malloced for 14 KB
+Process 9609: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ForgottenOne.cor
+leaks Report Version: 4.0
+Process 9614: 161 nodes malloced for 14 KB
+Process 9614: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Gagnant.cor
+leaks Report Version: 4.0
+Process 9618: 161 nodes malloced for 14 KB
+Process 9618: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Hidden.cor
+leaks Report Version: 4.0
+Process 9621: 161 nodes malloced for 14 KB
+Process 9621: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Horace.cor
+leaks Report Version: 4.0
+Process 9624: 161 nodes malloced for 14 KB
+Process 9624: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Izi_Miaou.cor
+leaks Report Version: 4.0
+Process 9627: 161 nodes malloced for 14 KB
+Process 9627: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kappa.cor
+leaks Report Version: 4.0
+Process 9630: 161 nodes malloced for 14 KB
+Process 9630: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kitty_Miaou.cor
+leaks Report Version: 4.0
+Process 9633: 161 nodes malloced for 14 KB
+Process 9633: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kittystrophic.cor
+leaks Report Version: 4.0
+Process 9636: 161 nodes malloced for 14 KB
+Process 9636: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Machine-gun.cor
+leaks Report Version: 4.0
+Process 9640: 161 nodes malloced for 14 KB
+Process 9640: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/MarineKing.cor
+leaks Report Version: 4.0
+Process 9643: 161 nodes malloced for 14 KB
+Process 9643: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/NoIdea.cor
+leaks Report Version: 4.0
+Process 9646: 161 nodes malloced for 14 KB
+Process 9646: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/O-Maley_Miaou.cor
+leaks Report Version: 4.0
+Process 9649: 161 nodes malloced for 14 KB
+Process 9649: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Octobre_Rouge_V4.2.cor
+leaks Report Version: 4.0
+Process 9652: 161 nodes malloced for 14 KB
+Process 9652: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Stargate0_1.cor
+leaks Report Version: 4.0
+Process 9655: 161 nodes malloced for 14 KB
+Process 9655: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Survivor.cor
+leaks Report Version: 4.0
+Process 9658: 161 nodes malloced for 14 KB
+Process 9658: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/THUNDER.cor
+leaks Report Version: 4.0
+Process 9661: 161 nodes malloced for 14 KB
+Process 9661: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/TheHarvester.cor
+leaks Report Version: 4.0
+Process 9664: 161 nodes malloced for 14 KB
+Process 9664: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Varimathras.cor
+leaks Report Version: 4.0
+Process 9667: 161 nodes malloced for 14 KB
+Process 9667: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Wall.cor
+leaks Report Version: 4.0
+Process 9670: 161 nodes malloced for 14 KB
+Process 9670: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/_.cor
+leaks Report Version: 4.0
+Process 9673: 161 nodes malloced for 14 KB
+Process 9673: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/_honeybadger.cor
+leaks Report Version: 4.0
+Process 9676: 161 nodes malloced for 14 KB
+Process 9676: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/all_ops.cor
+leaks Report Version: 4.0
+Process 9679: 161 nodes malloced for 14 KB
+Process 9679: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/barriere.cor
+leaks Report Version: 4.0
+Process 9682: 161 nodes malloced for 14 KB
+Process 9682: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/big_feet.cor
+leaks Report Version: 4.0
+Process 9685: 161 nodes malloced for 14 KB
+Process 9685: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/bigzork.cor
+leaks Report Version: 4.0
+Process 9688: 161 nodes malloced for 14 KB
+Process 9688: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/casimir.cor
+leaks Report Version: 4.0
+Process 9691: 161 nodes malloced for 14 KB
+Process 9691: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comment_after_name.cor
+leaks Report Version: 4.0
+Process 9694: 161 nodes malloced for 14 KB
+Process 9694: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comment_endofline.cor
+leaks Report Version: 4.0
+Process 9697: 161 nodes malloced for 14 KB
+Process 9697: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_after_code.cor
+leaks Report Version: 4.0
+Process 9700: 161 nodes malloced for 14 KB
+Process 9700: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_between_cmd2.cor
+leaks Report Version: 4.0
+Process 9704: 161 nodes malloced for 14 KB
+Process 9704: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_in_quote.cor
+leaks Report Version: 4.0
+Process 9720: 161 nodes malloced for 14 KB
+Process 9720: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/corelol.cor
+leaks Report Version: 4.0
+Process 9728: 161 nodes malloced for 14 KB
+Process 9728: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/darksasuke.cor
+leaks Report Version: 4.0
+Process 9731: 161 nodes malloced for 14 KB
+Process 9731: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/doge.cor
+leaks Report Version: 4.0
+Process 9734: 161 nodes malloced for 14 KB
+Process 9734: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/dubo.cor
+leaks Report Version: 4.0
+Process 9750: 161 nodes malloced for 14 KB
+Process 9750: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/duplicate_label.cor
+leaks Report Version: 4.0
+Process 9758: 161 nodes malloced for 14 KB
+Process 9758: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/echo.cor
+leaks Report Version: 4.0
+Process 9761: 161 nodes malloced for 14 KB
+Process 9761: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_comment.cor
+leaks Report Version: 4.0
+Process 9764: 161 nodes malloced for 14 KB
+Process 9764: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_name.cor
+leaks Report Version: 4.0
+Process 9767: 161 nodes malloced for 14 KB
+Process 9767: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_name_comment.cor
+leaks Report Version: 4.0
+Process 9772: 161 nodes malloced for 14 KB
+Process 9772: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/even_bigger_load.cor
+leaks Report Version: 4.0
+Process 9775: 161 nodes malloced for 14 KB
+Process 9775: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ex.cor
+leaks Report Version: 4.0
+Process 9778: 161 nodes malloced for 14 KB
+Process 9778: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/fast.cor
+leaks Report Version: 4.0
+Process 9781: 161 nodes malloced for 14 KB
+Process 9781: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/fluttershy.cor
+leaks Report Version: 4.0
+Process 9784: 161 nodes malloced for 14 KB
+Process 9784: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/gateau.cor
+leaks Report Version: 4.0
+Process 9787: 161 nodes malloced for 14 KB
+Process 9787: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/gedeon.cor
+leaks Report Version: 4.0
+Process 9790: 161 nodes malloced for 14 KB
+Process 9790: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/helltrain.cor
+leaks Report Version: 4.0
+Process 9793: 161 nodes malloced for 14 KB
+Process 9793: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jinx.cor
+leaks Report Version: 4.0
+Process 9796: 161 nodes malloced for 14 KB
+Process 9796: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jump.cor
+leaks Report Version: 4.0
+Process 9800: 161 nodes malloced for 14 KB
+Process 9800: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jumper.cor
+leaks Report Version: 4.0
+Process 9803: 161 nodes malloced for 14 KB
+Process 9803: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/justin_bee.cor
+leaks Report Version: 4.0
+Process 9806: 161 nodes malloced for 14 KB
+Process 9806: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/kamelkaze.cor
+leaks Report Version: 4.0
+Process 9809: 161 nodes malloced for 14 KB
+Process 9809: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/katchup.cor
+leaks Report Version: 4.0
+Process 9812: 161 nodes malloced for 14 KB
+Process 9812: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_at_end.cor
+leaks Report Version: 4.0
+Process 9815: 161 nodes malloced for 14 KB
+Process 9815: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_ok.cor
+leaks Report Version: 4.0
+Process 9818: 161 nodes malloced for 14 KB
+Process 9818: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_ok2.cor
+leaks Report Version: 4.0
+Process 9821: 161 nodes malloced for 14 KB
+Process 9821: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lapsang.cor
+leaks Report Version: 4.0
+Process 9824: 161 nodes malloced for 14 KB
+Process 9824: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lde.cor
+leaks Report Version: 4.0
+Process 9827: 161 nodes malloced for 14 KB
+Process 9827: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/le_pet_de_nonne.cor
+leaks Report Version: 4.0
+Process 9830: 161 nodes malloced for 14 KB
+Process 9830: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lfork.cor
+leaks Report Version: 4.0
+Process 9833: 161 nodes malloced for 14 KB
+Process 9833: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/littlepuppy.cor
+leaks Report Version: 4.0
+Process 9836: 161 nodes malloced for 14 KB
+Process 9836: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/live.cor
+leaks Report Version: 4.0
+Process 9839: 161 nodes malloced for 14 KB
+Process 9839: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/load.cor
+leaks Report Version: 4.0
+Process 9842: 161 nodes malloced for 14 KB
+Process 9842: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/long_comment_2.cor
+leaks Report Version: 4.0
+Process 9845: 161 nodes malloced for 14 KB
+Process 9845: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/loose.cor
+leaks Report Version: 4.0
+Process 9848: 161 nodes malloced for 14 KB
+Process 9848: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lou_forktologue.cor
+leaks Report Version: 4.0
+Process 9851: 161 nodes malloced for 14 KB
+Process 9851: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/mandragore.cor
+leaks Report Version: 4.0
+Process 9854: 161 nodes malloced for 14 KB
+Process 9854: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/master_of_puppets.cor
+leaks Report Version: 4.0
+Process 9857: 161 nodes malloced for 14 KB
+Process 9857: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/max_min_int.cor
+leaks Report Version: 4.0
+Process 9861: 161 nodes malloced for 14 KB
+Process 9861: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/maxidef.cor
+leaks Report Version: 4.0
+Process 9864: 161 nodes malloced for 14 KB
+Process 9864: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/meowluigi.cor
+leaks Report Version: 4.0
+Process 9867: 161 nodes malloced for 14 KB
+Process 9867: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/moro.cor
+leaks Report Version: 4.0
+Process 9870: 161 nodes malloced for 14 KB
+Process 9870: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/mortel.cor
+leaks Report Version: 4.0
+Process 9873: 161 nodes malloced for 14 KB
+Process 9873: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/multilabel.cor
+leaks Report Version: 4.0
+Process 9876: 161 nodes malloced for 14 KB
+Process 9876: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/multilabel_end.cor
+leaks Report Version: 4.0
+Process 9879: 161 nodes malloced for 14 KB
+Process 9879: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/negative_number.cor
+leaks Report Version: 4.0
+Process 9882: 161 nodes malloced for 14 KB
+Process 9882: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_add.cor
+leaks Report Version: 4.0
+Process 9885: 161 nodes malloced for 14 KB
+Process 9885: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_aff.cor
+leaks Report Version: 4.0
+Process 9888: 161 nodes malloced for 14 KB
+Process 9888: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_and.cor
+leaks Report Version: 4.0
+Process 9891: 161 nodes malloced for 14 KB
+Process 9891: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_fork.cor
+leaks Report Version: 4.0
+Process 9894: 161 nodes malloced for 14 KB
+Process 9894: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_ld.cor
+leaks Report Version: 4.0
+Process 9897: 161 nodes malloced for 14 KB
+Process 9897: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_ldi.cor
+leaks Report Version: 4.0
+Process 9900: 161 nodes malloced for 14 KB
+Process 9900: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_live.cor
+leaks Report Version: 4.0
+Process 9903: 161 nodes malloced for 14 KB
+Process 9903: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_lld.cor
+leaks Report Version: 4.0
+Process 9906: 161 nodes malloced for 14 KB
+Process 9906: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_lldi.cor
+leaks Report Version: 4.0
+Process 9909: 161 nodes malloced for 14 KB
+Process 9909: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_or.cor
+leaks Report Version: 4.0
+Process 9912: 161 nodes malloced for 14 KB
+Process 9912: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_st.cor
+leaks Report Version: 4.0
+Process 9915: 161 nodes malloced for 14 KB
+Process 9915: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_sti.cor
+leaks Report Version: 4.0
+Process 9918: 161 nodes malloced for 14 KB
+Process 9918: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_sub.cor
+leaks Report Version: 4.0
+Process 9924: 161 nodes malloced for 14 KB
+Process 9924: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_xor.cor
+leaks Report Version: 4.0
+Process 9927: 161 nodes malloced for 14 KB
+Process 9927: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_zjmp.cor
+leaks Report Version: 4.0
+Process 9930: 161 nodes malloced for 14 KB
+Process 9930: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/overwatch.cor
+leaks Report Version: 4.0
+Process 9933: 161 nodes malloced for 14 KB
+Process 9933: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/pai_mu_tan.cor
+leaks Report Version: 4.0
+Process 9936: 161 nodes malloced for 14 KB
+Process 9936: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/run_Kitty_RUN.cor
+leaks Report Version: 4.0
+Process 9939: 161 nodes malloced for 14 KB
+Process 9939: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/salamahenagalabadoun.cor
+leaks Report Version: 4.0
+Process 9942: 161 nodes malloced for 14 KB
+Process 9942: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/sam_2.0.cor
+leaks Report Version: 4.0
+Process 9945: 161 nodes malloced for 14 KB
+Process 9945: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/sencha.cor
+leaks Report Version: 4.0
+Process 9948: 161 nodes malloced for 14 KB
+Process 9948: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/skynet.cor
+leaks Report Version: 4.0
+Process 9951: 161 nodes malloced for 14 KB
+Process 9951: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/slider2.cor
+leaks Report Version: 4.0
+Process 9954: 161 nodes malloced for 14 KB
+Process 9954: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/tchupka.cor
+leaks Report Version: 4.0
+Process 9957: 161 nodes malloced for 14 KB
+Process 9957: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/tdc4.cor
+leaks Report Version: 4.0
+Process 9960: 161 nodes malloced for 14 KB
+Process 9960: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/terminator.cor
+leaks Report Version: 4.0
+Process 9963: 161 nodes malloced for 14 KB
+Process 9963: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/test.cor
+leaks Report Version: 4.0
+Process 9969: 161 nodes malloced for 14 KB
+Process 9969: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/testzjmp.cor
+leaks Report Version: 4.0
+Process 9972: 161 nodes malloced for 14 KB
+Process 9972: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/testzjmp2.cor
+leaks Report Version: 4.0
+Process 9975: 161 nodes malloced for 14 KB
+Process 9975: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/toto.cor
+leaks Report Version: 4.0
+Process 9978: 161 nodes malloced for 14 KB
+Process 9978: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/turtle.cor
+leaks Report Version: 4.0
+Process 9981: 161 nodes malloced for 14 KB
+Process 9981: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ultima.cor
+leaks Report Version: 4.0
+Process 9984: 161 nodes malloced for 14 KB
+Process 9984: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/wave.cor
+leaks Report Version: 4.0
+Process 9988: 161 nodes malloced for 14 KB
+Process 9988: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/weird_load.cor
+leaks Report Version: 4.0
+Process 9991: 161 nodes malloced for 14 KB
+Process 9991: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/youforkmytralala.cor
+leaks Report Version: 4.0
+Process 9994: 161 nodes malloced for 14 KB
+Process 9994: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/zork.cor
+leaks Report Version: 4.0
+Process 9997: 161 nodes malloced for 14 KB
+Process 9997: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11086: 161 nodes malloced for 14 KB
+Process 11086: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11089: 163 nodes malloced for 14 KB
+Process 11089: 0 leaks for 0 total leaked bytes.
+
+ [7:0]leaks Report Version: 4.0
+Process 11092: 163 nodes malloced for 14 KB
+Process 11092: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11095: 163 nodes malloced for 14 KB
+Process 11095: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11098: 163 nodes malloced for 14 KB
+Process 11098: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11103: 163 nodes malloced for 14 KB
+Process 11103: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11106: 163 nodes malloced for 14 KB
+Process 11106: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11109: 163 nodes malloced for 14 KB
+Process 11109: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11112: 163 nodes malloced for 14 KB
+Process 11112: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11115: 163 nodes malloced for 14 KB
+Process 11115: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11118: 161 nodes malloced for 14 KB
+Process 11118: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11121: 161 nodes malloced for 14 KB
+Process 11121: 0 leaks for 0 total leaked bytes.
+
+ [10:13]leaks Report Version: 4.0
+Process 11125: 166 nodes malloced for 14 KB
+Process 11125: 0 leaks for 0 total leaked bytes.
+
+ [10:11]leaks Report Version: 4.0
+Process 11128: 165 nodes malloced for 14 KB
+Process 11128: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 11131: 163 nodes malloced for 14 KB
+Process 11131: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11134: 163 nodes malloced for 14 KB
+Process 11134: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 11137: 163 nodes malloced for 14 KB
+Process 11137: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 11141: 163 nodes malloced for 14 KB
+Process 11141: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 11144: 163 nodes malloced for 14 KB
+Process 11144: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 11147: 163 nodes malloced for 16 KB
+Process 11147: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11150: 165 nodes malloced for 14 KB
+Process 11150: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11153: 165 nodes malloced for 14 KB
+Process 11153: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11156: 165 nodes malloced for 14 KB
+Process 11156: 0 leaks for 0 total leaked bytes.
+
+ [4:18]leaks Report Version: 4.0
+Process 11159: 165 nodes malloced for 14 KB
+Process 11159: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11162: 161 nodes malloced for 14 KB
+Process 11162: 0 leaks for 0 total leaked bytes.
+
+ [10:11]leaks Report Version: 4.0
+Process 11165: 165 nodes malloced for 14 KB
+Process 11165: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11168: 161 nodes malloced for 14 KB
+Process 11168: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 11171: 165 nodes malloced for 14 KB
+Process 11171: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 11174: 165 nodes malloced for 14 KB
+Process 11174: 0 leaks for 0 total leaked bytes.
+
+ [5:12]leaks Report Version: 4.0
+Process 11177: 165 nodes malloced for 14 KB
+Process 11177: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11180: 165 nodes malloced for 14 KB
+Process 11180: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11183: 165 nodes malloced for 14 KB
+Process 11183: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11186: 165 nodes malloced for 14 KB
+Process 11186: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 11189: 165 nodes malloced for 14 KB
+Process 11189: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11192: 163 nodes malloced for 14 KB
+Process 11192: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 11195: 163 nodes malloced for 14 KB
+Process 11195: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11198: 163 nodes malloced for 14 KB
+Process 11198: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11201: 161 nodes malloced for 14 KB
+Process 11201: 0 leaks for 0 total leaked bytes.
+
+ [5:5]leaks Report Version: 4.0
+Process 11205: 165 nodes malloced for 14 KB
+Process 11205: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 11208: 163 nodes malloced for 14 KB
+Process 11208: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 11211: 163 nodes malloced for 14 KB
+Process 11211: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 11214: 163 nodes malloced for 14 KB
+Process 11214: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11217: 161 nodes malloced for 14 KB
+Process 11217: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 11220: 163 nodes malloced for 14 KB
+Process 11220: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11223: 163 nodes malloced for 14 KB
+Process 11223: 0 leaks for 0 total leaked bytes.
+
+ [4:13]leaks Report Version: 4.0
+Process 11226: 165 nodes malloced for 14 KB
+Process 11226: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 11229: 165 nodes malloced for 14 KB
+Process 11229: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11232: 161 nodes malloced for 14 KB
+Process 11232: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 11235: 163 nodes malloced for 14 KB
+Process 11235: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11238: 165 nodes malloced for 14 KB
+Process 11238: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 11241: 163 nodes malloced for 14 KB
+Process 11241: 0 leaks for 0 total leaked bytes.
+
+ [8:3]leaks Report Version: 4.0
+Process 11244: 165 nodes malloced for 14 KB
+Process 11244: 0 leaks for 0 total leaked bytes.
+
+ [8:7]leaks Report Version: 4.0
+Process 11247: 165 nodes malloced for 14 KB
+Process 11247: 0 leaks for 0 total leaked bytes.
+
+ [16:3]leaks Report Version: 4.0
+Process 11250: 165 nodes malloced for 20 KB
+Process 11250: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 11253: 163 nodes malloced for 16 KB
+Process 11253: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 11258: 163 nodes malloced for 16 KB
+Process 11258: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11261: 161 nodes malloced for 14 KB
+Process 11261: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 11264: 163 nodes malloced for 14 KB
+Process 11264: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 11267: 165 nodes malloced for 14 KB
+Process 11267: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 11271: 165 nodes malloced for 14 KB
+Process 11271: 0 leaks for 0 total leaked bytes.
+
+ [5:7]leaks Report Version: 4.0
+Process 11274: 165 nodes malloced for 14 KB
+Process 11274: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 11277: 165 nodes malloced for 14 KB
+Process 11277: 0 leaks for 0 total leaked bytes.
+
+ [5:10]leaks Report Version: 4.0
+Process 11280: 165 nodes malloced for 14 KB
+Process 11280: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 11283: 165 nodes malloced for 14 KB
+Process 11283: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 11286: 165 nodes malloced for 14 KB
+Process 11286: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 11289: 163 nodes malloced for 14 KB
+Process 11289: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11292: 161 nodes malloced for 14 KB
+Process 11292: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11295: 165 nodes malloced for 14 KB
+Process 11295: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 11298: 166 nodes malloced for 14 KB
+Process 11298: 0 leaks for 0 total leaked bytes.
+
+ [8:9]leaks Report Version: 4.0
+Process 11301: 165 nodes malloced for 14 KB
+Process 11301: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 11304: 163 nodes malloced for 14 KB
+Process 11304: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11307: 165 nodes malloced for 14 KB
+Process 11307: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 11310: 163 nodes malloced for 14 KB
+Process 11310: 0 leaks for 0 total leaked bytes.
+
+ [4:9]leaks Report Version: 4.0
+Process 11313: 165 nodes malloced for 14 KB
+Process 11313: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 11316: 165 nodes malloced for 14 KB
+Process 11316: 0 leaks for 0 total leaked bytes.
+
+ [6:0]leaks Report Version: 4.0
+Process 11319: 163 nodes malloced for 14 KB
+Process 11319: 0 leaks for 0 total leaked bytes.
+
+ [4:12]leaks Report Version: 4.0
+Process 11322: 165 nodes malloced for 14 KB
+Process 11322: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 11325: 163 nodes malloced for 14 KB
+Process 11325: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 11328: 163 nodes malloced for 14 KB
+Process 11328: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 11332: 165 nodes malloced for 14 KB
+Process 11332: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 11335: 163 nodes malloced for 14 KB
+Process 11335: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 11338: 165 nodes malloced for 14 KB
+Process 11338: 0 leaks for 0 total leaked bytes.
+
+ [6:3]leaks Report Version: 4.0
+Process 11341: 165 nodes malloced for 14 KB
+Process 11341: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 11344: 165 nodes malloced for 14 KB
+Process 11344: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11347: 161 nodes malloced for 14 KB
+Process 11347: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 11350: 165 nodes malloced for 14 KB
+Process 11350: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 11353: 165 nodes malloced for 14 KB
+Process 11353: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11356: 163 nodes malloced for 14 KB
+Process 11356: 0 leaks for 0 total leaked bytes.
+
+ [8:4]leaks Report Version: 4.0
+Process 11359: 163 nodes malloced for 14 KB
+Process 11359: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 11362: 165 nodes malloced for 14 KB
+Process 11362: 0 leaks for 0 total leaked bytes.
+
+ [5:7]leaks Report Version: 4.0
+Process 11365: 165 nodes malloced for 14 KB
+Process 11365: 0 leaks for 0 total leaked bytes.
+
+ [4:7]leaks Report Version: 4.0
+Process 11368: 165 nodes malloced for 14 KB
+Process 11368: 0 leaks for 0 total leaked bytes.
+
+ [24:9]leaks Report Version: 4.0
+Process 11371: 165 nodes malloced for 14 KB
+Process 11371: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 11374: 163 nodes malloced for 14 KB
+Process 11374: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 11377: 163 nodes malloced for 14 KB
+Process 11377: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 11380: 163 nodes malloced for 14 KB
+Process 11380: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 11383: 163 nodes malloced for 14 KB
+Process 11383: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11386: 161 nodes malloced for 14 KB
+Process 11386: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11389: 161 nodes malloced for 14 KB
+Process 11389: 0 leaks for 0 total leaked bytes.
+
+ [4:15]leaks Report Version: 4.0
+Process 11392: 165 nodes malloced for 14 KB
+Process 11392: 0 leaks for 0 total leaked bytes.
+
+ [8:13]leaks Report Version: 4.0
+Process 11395: 165 nodes malloced for 14 KB
+Process 11395: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 11399: 165 nodes malloced for 14 KB
+Process 11399: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 11402: 165 nodes malloced for 14 KB
+Process 11402: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 11405: 165 nodes malloced for 14 KB
+Process 11405: 0 leaks for 0 total leaked bytes.
+
+ [18:14]leaks Report Version: 4.0
+Process 11408: 165 nodes malloced for 14 KB
+Process 11408: 0 leaks for 0 total leaked bytes.
+
+ [18:14]leaks Report Version: 4.0
+Process 11411: 165 nodes malloced for 14 KB
+Process 11411: 0 leaks for 0 total leaked bytes.
+
+ [4:24]leaks Report Version: 4.0
+Process 11416: 166 nodes malloced for 14 KB
+Process 11416: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11419: 165 nodes malloced for 14 KB
+Process 11419: 0 leaks for 0 total leaked bytes.
+
+ [8:8]leaks Report Version: 4.0
+Process 11422: 163 nodes malloced for 14 KB
+Process 11422: 0 leaks for 0 total leaked bytes.
+
+ [7:9]leaks Report Version: 4.0
+Process 11425: 163 nodes malloced for 14 KB
+Process 11425: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 11428: 163 nodes malloced for 14 KB
+Process 11428: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 11431: 163 nodes malloced for 14 KB
+Process 11431: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11434: 163 nodes malloced for 14 KB
+Process 11434: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11437: 163 nodes malloced for 14 KB
+Process 11437: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 11440: 163 nodes malloced for 14 KB
+Process 11440: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11443: 163 nodes malloced for 16 KB
+Process 11443: 0 leaks for 0 total leaked bytes.
+
+ [7:22]leaks Report Version: 4.0
+Process 11446: 166 nodes malloced for 17 KB
+Process 11446: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 11449: 165 nodes malloced for 16 KB
+Process 11449: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11452: 161 nodes malloced for 14 KB
+Process 11452: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 11455: 163 nodes malloced for 14 KB
+Process 11455: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 11458: 163 nodes malloced for 14 KB
+Process 11458: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11462: 163 nodes malloced for 17 KB
+Process 11462: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11465: 163 nodes malloced for 14 KB
+Process 11465: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11468: 163 nodes malloced for 14 KB
+Process 11468: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 11471: 163 nodes malloced for 14 KB
+Process 11471: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11474: 163 nodes malloced for 14 KB
+Process 11474: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11477: 163 nodes malloced for 14 KB
+Process 11477: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 11480: 163 nodes malloced for 14 KB
+Process 11480: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11483: 161 nodes malloced for 14 KB
+Process 11483: 0 leaks for 0 total leaked bytes.
+
+ [6:22]leaks Report Version: 4.0
+Process 11486: 165 nodes malloced for 14 KB
+Process 11486: 0 leaks for 0 total leaked bytes.
+
+ [5:4]leaks Report Version: 4.0
+Process 11489: 165 nodes malloced for 14 KB
+Process 11489: 0 leaks for 0 total leaked bytes.
+
+ [6:36]leaks Report Version: 4.0
+Process 11492: 167 nodes malloced for 14 KB
+Process 11492: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 11495: 165 nodes malloced for 14 KB
+Process 11495: 0 leaks for 0 total leaked bytes.
+
+ [8:26]leaks Report Version: 4.0
+Process 11500: 166 nodes malloced for 14 KB
+Process 11500: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 11503: 165 nodes malloced for 14 KB
+Process 11503: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 11506: 165 nodes malloced for 14 KB
+Process 11506: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 11509: 165 nodes malloced for 14 KB
+Process 11509: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 11512: 165 nodes malloced for 14 KB
+Process 11512: 0 leaks for 0 total leaked bytes.
+
+ [6:37]leaks Report Version: 4.0
+Process 11515: 167 nodes malloced for 14 KB
+Process 11515: 0 leaks for 0 total leaked bytes.
+
+ [6:18]leaks Report Version: 4.0
+Process 11518: 165 nodes malloced for 14 KB
+Process 11518: 0 leaks for 0 total leaked bytes.
+
+ [6:22]leaks Report Version: 4.0
+Process 11521: 165 nodes malloced for 14 KB
+Process 11521: 0 leaks for 0 total leaked bytes.
+
+ [6:16]leaks Report Version: 4.0
+Process 11525: 165 nodes malloced for 14 KB
+Process 11525: 0 leaks for 0 total leaked bytes.
+
+ [6:24]leaks Report Version: 4.0
+Process 11528: 165 nodes malloced for 14 KB
+Process 11528: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 11531: 165 nodes malloced for 14 KB
+Process 11531: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11534: 165 nodes malloced for 14 KB
+Process 11534: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11537: 165 nodes malloced for 14 KB
+Process 11537: 0 leaks for 0 total leaked bytes.
+
+ [4:21]leaks Report Version: 4.0
+Process 11540: 166 nodes malloced for 14 KB
+Process 11540: 0 leaks for 0 total leaked bytes.
+
+ [4:18]leaks Report Version: 4.0
+Process 11543: 165 nodes malloced for 14 KB
+Process 11543: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 11546: 163 nodes malloced for 14 KB
+Process 11546: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 11549: 163 nodes malloced for 14 KB
+Process 11549: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 11552: 163 nodes malloced for 14 KB
+Process 11552: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 11555: 163 nodes malloced for 14 KB
+Process 11555: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 11559: 163 nodes malloced for 14 KB
+Process 11559: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 11562: 163 nodes malloced for 14 KB
+Process 11562: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 11565: 163 nodes malloced for 14 KB
+Process 11565: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 11568: 163 nodes malloced for 14 KB
+Process 11568: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11573: 163 nodes malloced for 14 KB
+Process 11573: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 11576: 161 nodes malloced for 14 KB
+Process 11576: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11579: 163 nodes malloced for 15 KB
+Process 11579: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11582: 163 nodes malloced for 14 KB
+Process 11582: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 11585: 163 nodes malloced for 14 KB
+Process 11585: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 11588: 165 nodes malloced for 14 KB
+Process 11588: 0 leaks for 0 total leaked bytes.
+
+ [8:12]leaks Report Version: 4.0
+Process 11592: 165 nodes malloced for 14 KB
+Process 11592: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 11595: 165 nodes malloced for 14 KB
+Process 11595: 0 leaks for 0 total leaked bytes.
+
+ [5:8]leaks Report Version: 4.0
+Process 11598: 163 nodes malloced for 14 KB
+Process 11598: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 11601: 163 nodes malloced for 14 KB
+Process 11601: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/42.cor
+leaks Report Version: 4.0
+Process 11856: 161 nodes malloced for 14 KB
+Process 11856: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Asombra.cor
+leaks Report Version: 4.0
+Process 11859: 161 nodes malloced for 14 KB
+Process 11859: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Bazou.cor
+leaks Report Version: 4.0
+Process 11862: 161 nodes malloced for 14 KB
+Process 11862: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Car.cor
+leaks Report Version: 4.0
+Process 11865: 161 nodes malloced for 14 KB
+Process 11865: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Code_eater.cor
+leaks Report Version: 4.0
+Process 11869: 161 nodes malloced for 14 KB
+Process 11869: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Douceur_power.cor
+leaks Report Version: 4.0
+Process 11872: 161 nodes malloced for 14 KB
+Process 11872: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Eraser.cor
+leaks Report Version: 4.0
+Process 11875: 161 nodes malloced for 14 KB
+Process 11875: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Explosive_Kitty.cor
+leaks Report Version: 4.0
+Process 11878: 161 nodes malloced for 14 KB
+Process 11878: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ForgottenOne.cor
+leaks Report Version: 4.0
+Process 11881: 161 nodes malloced for 14 KB
+Process 11881: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Gagnant.cor
+leaks Report Version: 4.0
+Process 11884: 161 nodes malloced for 14 KB
+Process 11884: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Hidden.cor
+leaks Report Version: 4.0
+Process 11889: 161 nodes malloced for 14 KB
+Process 11889: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Horace.cor
+leaks Report Version: 4.0
+Process 11892: 161 nodes malloced for 14 KB
+Process 11892: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Izi_Miaou.cor
+leaks Report Version: 4.0
+Process 11895: 161 nodes malloced for 14 KB
+Process 11895: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kappa.cor
+leaks Report Version: 4.0
+Process 11898: 161 nodes malloced for 14 KB
+Process 11898: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kitty_Miaou.cor
+leaks Report Version: 4.0
+Process 11901: 161 nodes malloced for 14 KB
+Process 11901: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kittystrophic.cor
+leaks Report Version: 4.0
+Process 11904: 161 nodes malloced for 14 KB
+Process 11904: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Machine-gun.cor
+leaks Report Version: 4.0
+Process 11907: 161 nodes malloced for 14 KB
+Process 11907: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/MarineKing.cor
+leaks Report Version: 4.0
+Process 11910: 161 nodes malloced for 14 KB
+Process 11910: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/NoIdea.cor
+leaks Report Version: 4.0
+Process 11913: 161 nodes malloced for 14 KB
+Process 11913: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/O-Maley_Miaou.cor
+leaks Report Version: 4.0
+Process 11916: 161 nodes malloced for 14 KB
+Process 11916: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Octobre_Rouge_V4.2.cor
+leaks Report Version: 4.0
+Process 11919: 161 nodes malloced for 14 KB
+Process 11919: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Stargate0_1.cor
+leaks Report Version: 4.0
+Process 11922: 161 nodes malloced for 14 KB
+Process 11922: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Survivor.cor
+leaks Report Version: 4.0
+Process 11925: 161 nodes malloced for 14 KB
+Process 11925: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/THUNDER.cor
+leaks Report Version: 4.0
+Process 11929: 161 nodes malloced for 14 KB
+Process 11929: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/TheHarvester.cor
+leaks Report Version: 4.0
+Process 11932: 161 nodes malloced for 14 KB
+Process 11932: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Varimathras.cor
+leaks Report Version: 4.0
+Process 11935: 161 nodes malloced for 14 KB
+Process 11935: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Wall.cor
+leaks Report Version: 4.0
+Process 11938: 161 nodes malloced for 14 KB
+Process 11938: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/_.cor
+leaks Report Version: 4.0
+Process 11941: 161 nodes malloced for 14 KB
+Process 11941: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/_honeybadger.cor
+leaks Report Version: 4.0
+Process 11944: 161 nodes malloced for 14 KB
+Process 11944: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/all_ops.cor
+leaks Report Version: 4.0
+Process 11947: 161 nodes malloced for 14 KB
+Process 11947: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/barriere.cor
+leaks Report Version: 4.0
+Process 11950: 161 nodes malloced for 14 KB
+Process 11950: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/big_feet.cor
+leaks Report Version: 4.0
+Process 11953: 161 nodes malloced for 14 KB
+Process 11953: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/bigzork.cor
+leaks Report Version: 4.0
+Process 11956: 161 nodes malloced for 14 KB
+Process 11956: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/casimir.cor
+leaks Report Version: 4.0
+Process 11959: 161 nodes malloced for 14 KB
+Process 11959: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comment_after_name.cor
+leaks Report Version: 4.0
+Process 11962: 161 nodes malloced for 14 KB
+Process 11962: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comment_endofline.cor
+leaks Report Version: 4.0
+Process 11965: 161 nodes malloced for 14 KB
+Process 11965: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_after_code.cor
+leaks Report Version: 4.0
+Process 11968: 161 nodes malloced for 14 KB
+Process 11968: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_between_cmd2.cor
+leaks Report Version: 4.0
+Process 11971: 161 nodes malloced for 14 KB
+Process 11971: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_in_quote.cor
+leaks Report Version: 4.0
+Process 11974: 161 nodes malloced for 14 KB
+Process 11974: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/corelol.cor
+leaks Report Version: 4.0
+Process 11977: 161 nodes malloced for 14 KB
+Process 11977: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/darksasuke.cor
+leaks Report Version: 4.0
+Process 11980: 161 nodes malloced for 14 KB
+Process 11980: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/doge.cor
+leaks Report Version: 4.0
+Process 11983: 161 nodes malloced for 14 KB
+Process 11983: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/dubo.cor
+leaks Report Version: 4.0
+Process 11986: 161 nodes malloced for 14 KB
+Process 11986: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/duplicate_label.cor
+leaks Report Version: 4.0
+Process 11990: 161 nodes malloced for 14 KB
+Process 11990: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/echo.cor
+leaks Report Version: 4.0
+Process 11995: 161 nodes malloced for 14 KB
+Process 11995: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_comment.cor
+leaks Report Version: 4.0
+Process 11998: 161 nodes malloced for 14 KB
+Process 11998: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_name.cor
+leaks Report Version: 4.0
+Process 12001: 161 nodes malloced for 14 KB
+Process 12001: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_name_comment.cor
+leaks Report Version: 4.0
+Process 12004: 161 nodes malloced for 14 KB
+Process 12004: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/even_bigger_load.cor
+leaks Report Version: 4.0
+Process 12007: 161 nodes malloced for 14 KB
+Process 12007: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ex.cor
+leaks Report Version: 4.0
+Process 12010: 161 nodes malloced for 14 KB
+Process 12010: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/fast.cor
+leaks Report Version: 4.0
+Process 12013: 161 nodes malloced for 14 KB
+Process 12013: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/fluttershy.cor
+leaks Report Version: 4.0
+Process 12016: 161 nodes malloced for 14 KB
+Process 12016: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/gateau.cor
+leaks Report Version: 4.0
+Process 12019: 161 nodes malloced for 14 KB
+Process 12019: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/gedeon.cor
+leaks Report Version: 4.0
+Process 12022: 161 nodes malloced for 14 KB
+Process 12022: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/helltrain.cor
+leaks Report Version: 4.0
+Process 12025: 161 nodes malloced for 14 KB
+Process 12025: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jinx.cor
+leaks Report Version: 4.0
+Process 12028: 161 nodes malloced for 14 KB
+Process 12028: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jump.cor
+leaks Report Version: 4.0
+Process 12031: 161 nodes malloced for 14 KB
+Process 12031: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jumper.cor
+leaks Report Version: 4.0
+Process 12034: 161 nodes malloced for 14 KB
+Process 12034: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/justin_bee.cor
+leaks Report Version: 4.0
+Process 12037: 161 nodes malloced for 14 KB
+Process 12037: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/kamelkaze.cor
+leaks Report Version: 4.0
+Process 12040: 161 nodes malloced for 14 KB
+Process 12040: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/katchup.cor
+leaks Report Version: 4.0
+Process 12043: 161 nodes malloced for 14 KB
+Process 12043: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_at_end.cor
+leaks Report Version: 4.0
+Process 12046: 161 nodes malloced for 14 KB
+Process 12046: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_ok.cor
+leaks Report Version: 4.0
+Process 12049: 161 nodes malloced for 14 KB
+Process 12049: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_ok2.cor
+leaks Report Version: 4.0
+Process 12053: 161 nodes malloced for 14 KB
+Process 12053: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lapsang.cor
+leaks Report Version: 4.0
+Process 12056: 161 nodes malloced for 14 KB
+Process 12056: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lde.cor
+leaks Report Version: 4.0
+Process 12059: 161 nodes malloced for 14 KB
+Process 12059: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/le_pet_de_nonne.cor
+leaks Report Version: 4.0
+Process 12062: 161 nodes malloced for 14 KB
+Process 12062: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lfork.cor
+leaks Report Version: 4.0
+Process 12065: 161 nodes malloced for 14 KB
+Process 12065: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/littlepuppy.cor
+leaks Report Version: 4.0
+Process 12068: 161 nodes malloced for 14 KB
+Process 12068: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/live.cor
+leaks Report Version: 4.0
+Process 12071: 161 nodes malloced for 14 KB
+Process 12071: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/load.cor
+leaks Report Version: 4.0
+Process 12074: 161 nodes malloced for 14 KB
+Process 12074: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/long_comment_2.cor
+leaks Report Version: 4.0
+Process 12077: 161 nodes malloced for 14 KB
+Process 12077: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/loose.cor
+leaks Report Version: 4.0
+Process 12080: 161 nodes malloced for 14 KB
+Process 12080: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lou_forktologue.cor
+leaks Report Version: 4.0
+Process 12083: 161 nodes malloced for 14 KB
+Process 12083: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/mandragore.cor
+leaks Report Version: 4.0
+Process 12086: 161 nodes malloced for 14 KB
+Process 12086: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/master_of_puppets.cor
+leaks Report Version: 4.0
+Process 12089: 161 nodes malloced for 14 KB
+Process 12089: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/max_min_int.cor
+leaks Report Version: 4.0
+Process 12092: 161 nodes malloced for 14 KB
+Process 12092: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/maxidef.cor
+leaks Report Version: 4.0
+Process 12095: 161 nodes malloced for 14 KB
+Process 12095: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/meowluigi.cor
+leaks Report Version: 4.0
+Process 12098: 161 nodes malloced for 14 KB
+Process 12098: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/moro.cor
+leaks Report Version: 4.0
+Process 12101: 161 nodes malloced for 14 KB
+Process 12101: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/mortel.cor
+leaks Report Version: 4.0
+Process 12104: 161 nodes malloced for 14 KB
+Process 12104: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/multilabel.cor
+leaks Report Version: 4.0
+Process 12107: 161 nodes malloced for 14 KB
+Process 12107: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/multilabel_end.cor
+leaks Report Version: 4.0
+Process 12110: 161 nodes malloced for 14 KB
+Process 12110: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/negative_number.cor
+leaks Report Version: 4.0
+Process 12113: 161 nodes malloced for 14 KB
+Process 12113: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_add.cor
+leaks Report Version: 4.0
+Process 12117: 161 nodes malloced for 14 KB
+Process 12117: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_aff.cor
+leaks Report Version: 4.0
+Process 12120: 161 nodes malloced for 14 KB
+Process 12120: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_and.cor
+leaks Report Version: 4.0
+Process 12123: 161 nodes malloced for 14 KB
+Process 12123: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_fork.cor
+leaks Report Version: 4.0
+Process 12126: 161 nodes malloced for 14 KB
+Process 12126: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_ld.cor
+leaks Report Version: 4.0
+Process 12129: 161 nodes malloced for 14 KB
+Process 12129: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_ldi.cor
+leaks Report Version: 4.0
+Process 12132: 161 nodes malloced for 14 KB
+Process 12132: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_live.cor
+leaks Report Version: 4.0
+Process 12135: 161 nodes malloced for 14 KB
+Process 12135: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_lld.cor
+leaks Report Version: 4.0
+Process 12138: 161 nodes malloced for 14 KB
+Process 12138: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_lldi.cor
+leaks Report Version: 4.0
+Process 12141: 161 nodes malloced for 14 KB
+Process 12141: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_or.cor
+leaks Report Version: 4.0
+Process 12144: 161 nodes malloced for 14 KB
+Process 12144: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_st.cor
+leaks Report Version: 4.0
+Process 12149: 161 nodes malloced for 14 KB
+Process 12149: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_sti.cor
+leaks Report Version: 4.0
+Process 12152: 161 nodes malloced for 14 KB
+Process 12152: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_sub.cor
+leaks Report Version: 4.0
+Process 12155: 161 nodes malloced for 14 KB
+Process 12155: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_xor.cor
+leaks Report Version: 4.0
+Process 12158: 161 nodes malloced for 14 KB
+Process 12158: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_zjmp.cor
+leaks Report Version: 4.0
+Process 12161: 161 nodes malloced for 14 KB
+Process 12161: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/overwatch.cor
+leaks Report Version: 4.0
+Process 12164: 161 nodes malloced for 14 KB
+Process 12164: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/pai_mu_tan.cor
+leaks Report Version: 4.0
+Process 12167: 161 nodes malloced for 14 KB
+Process 12167: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/run_Kitty_RUN.cor
+leaks Report Version: 4.0
+Process 12170: 161 nodes malloced for 14 KB
+Process 12170: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/salamahenagalabadoun.cor
+leaks Report Version: 4.0
+Process 12173: 161 nodes malloced for 14 KB
+Process 12173: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/sam_2.0.cor
+leaks Report Version: 4.0
+Process 12176: 161 nodes malloced for 14 KB
+Process 12176: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/sencha.cor
+leaks Report Version: 4.0
+Process 12179: 161 nodes malloced for 14 KB
+Process 12179: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/skynet.cor
+leaks Report Version: 4.0
+Process 12183: 161 nodes malloced for 14 KB
+Process 12183: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/slider2.cor
+leaks Report Version: 4.0
+Process 12186: 161 nodes malloced for 14 KB
+Process 12186: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/tchupka.cor
+leaks Report Version: 4.0
+Process 12189: 161 nodes malloced for 14 KB
+Process 12189: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/tdc4.cor
+leaks Report Version: 4.0
+Process 12192: 161 nodes malloced for 14 KB
+Process 12192: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/terminator.cor
+leaks Report Version: 4.0
+Process 12195: 161 nodes malloced for 14 KB
+Process 12195: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/test.cor
+leaks Report Version: 4.0
+Process 12198: 161 nodes malloced for 14 KB
+Process 12198: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/testzjmp.cor
+leaks Report Version: 4.0
+Process 12201: 161 nodes malloced for 14 KB
+Process 12201: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/testzjmp2.cor
+leaks Report Version: 4.0
+Process 12204: 161 nodes malloced for 14 KB
+Process 12204: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/toto.cor
+leaks Report Version: 4.0
+Process 12207: 161 nodes malloced for 14 KB
+Process 12207: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/turtle.cor
+leaks Report Version: 4.0
+Process 12210: 161 nodes malloced for 14 KB
+Process 12210: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ultima.cor
+leaks Report Version: 4.0
+Process 12213: 161 nodes malloced for 14 KB
+Process 12213: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/wave.cor
+leaks Report Version: 4.0
+Process 12216: 161 nodes malloced for 14 KB
+Process 12216: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/weird_load.cor
+leaks Report Version: 4.0
+Process 12219: 161 nodes malloced for 14 KB
+Process 12219: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/youforkmytralala.cor
+leaks Report Version: 4.0
+Process 12222: 161 nodes malloced for 14 KB
+Process 12222: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/zork.cor
+leaks Report Version: 4.0
+Process 12225: 161 nodes malloced for 14 KB
+Process 12225: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13792: 161 nodes malloced for 14 KB
+Process 13792: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 13796: 163 nodes malloced for 14 KB
+Process 13796: 0 leaks for 0 total leaked bytes.
+
+ [7:0]leaks Report Version: 4.0
+Process 13799: 163 nodes malloced for 14 KB
+Process 13799: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 13802: 163 nodes malloced for 14 KB
+Process 13802: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13805: 163 nodes malloced for 14 KB
+Process 13805: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13808: 163 nodes malloced for 14 KB
+Process 13808: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13811: 163 nodes malloced for 14 KB
+Process 13811: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13814: 163 nodes malloced for 14 KB
+Process 13814: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13817: 163 nodes malloced for 14 KB
+Process 13817: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13820: 163 nodes malloced for 14 KB
+Process 13820: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13823: 161 nodes malloced for 14 KB
+Process 13823: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13826: 161 nodes malloced for 14 KB
+Process 13826: 0 leaks for 0 total leaked bytes.
+
+ [10:13]leaks Report Version: 4.0
+Process 13829: 166 nodes malloced for 14 KB
+Process 13829: 0 leaks for 0 total leaked bytes.
+
+ [10:11]leaks Report Version: 4.0
+Process 13832: 165 nodes malloced for 14 KB
+Process 13832: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 13835: 163 nodes malloced for 14 KB
+Process 13835: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13838: 163 nodes malloced for 14 KB
+Process 13838: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 13841: 163 nodes malloced for 14 KB
+Process 13841: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 13845: 163 nodes malloced for 14 KB
+Process 13845: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 13848: 163 nodes malloced for 14 KB
+Process 13848: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 13851: 163 nodes malloced for 16 KB
+Process 13851: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 13854: 165 nodes malloced for 14 KB
+Process 13854: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 13857: 165 nodes malloced for 14 KB
+Process 13857: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 13861: 165 nodes malloced for 14 KB
+Process 13861: 0 leaks for 0 total leaked bytes.
+
+ [4:18]leaks Report Version: 4.0
+Process 13864: 165 nodes malloced for 14 KB
+Process 13864: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13867: 161 nodes malloced for 14 KB
+Process 13867: 0 leaks for 0 total leaked bytes.
+
+ [10:11]leaks Report Version: 4.0
+Process 13870: 165 nodes malloced for 14 KB
+Process 13870: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13873: 161 nodes malloced for 14 KB
+Process 13873: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 13876: 165 nodes malloced for 14 KB
+Process 13876: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 13879: 165 nodes malloced for 14 KB
+Process 13879: 0 leaks for 0 total leaked bytes.
+
+ [5:12]leaks Report Version: 4.0
+Process 13882: 165 nodes malloced for 14 KB
+Process 13882: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 13885: 165 nodes malloced for 14 KB
+Process 13885: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 13888: 165 nodes malloced for 14 KB
+Process 13888: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 13891: 165 nodes malloced for 14 KB
+Process 13891: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 13894: 165 nodes malloced for 14 KB
+Process 13894: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 13897: 163 nodes malloced for 14 KB
+Process 13897: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 13900: 163 nodes malloced for 14 KB
+Process 13900: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 13903: 163 nodes malloced for 14 KB
+Process 13903: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13906: 161 nodes malloced for 14 KB
+Process 13906: 0 leaks for 0 total leaked bytes.
+
+ [5:5]leaks Report Version: 4.0
+Process 13909: 165 nodes malloced for 14 KB
+Process 13909: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 13912: 163 nodes malloced for 14 KB
+Process 13912: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 13915: 163 nodes malloced for 14 KB
+Process 13915: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 13918: 163 nodes malloced for 14 KB
+Process 13918: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13921: 161 nodes malloced for 14 KB
+Process 13921: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 13925: 163 nodes malloced for 14 KB
+Process 13925: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13928: 163 nodes malloced for 14 KB
+Process 13928: 0 leaks for 0 total leaked bytes.
+
+ [4:13]leaks Report Version: 4.0
+Process 13931: 165 nodes malloced for 14 KB
+Process 13931: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 13934: 165 nodes malloced for 14 KB
+Process 13934: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13937: 161 nodes malloced for 14 KB
+Process 13937: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 13940: 163 nodes malloced for 14 KB
+Process 13940: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 13943: 165 nodes malloced for 14 KB
+Process 13943: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 13946: 163 nodes malloced for 14 KB
+Process 13946: 0 leaks for 0 total leaked bytes.
+
+ [8:3]leaks Report Version: 4.0
+Process 13950: 165 nodes malloced for 14 KB
+Process 13950: 0 leaks for 0 total leaked bytes.
+
+ [8:7]leaks Report Version: 4.0
+Process 13954: 165 nodes malloced for 14 KB
+Process 13954: 0 leaks for 0 total leaked bytes.
+
+ [16:3]leaks Report Version: 4.0
+Process 13957: 165 nodes malloced for 20 KB
+Process 13957: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 13960: 163 nodes malloced for 16 KB
+Process 13960: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 13963: 163 nodes malloced for 16 KB
+Process 13963: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13966: 161 nodes malloced for 14 KB
+Process 13966: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 13969: 163 nodes malloced for 14 KB
+Process 13969: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 13972: 165 nodes malloced for 14 KB
+Process 13972: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 13975: 165 nodes malloced for 14 KB
+Process 13975: 0 leaks for 0 total leaked bytes.
+
+ [5:7]leaks Report Version: 4.0
+Process 13978: 165 nodes malloced for 14 KB
+Process 13978: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 13981: 165 nodes malloced for 14 KB
+Process 13981: 0 leaks for 0 total leaked bytes.
+
+ [5:10]leaks Report Version: 4.0
+Process 13984: 165 nodes malloced for 14 KB
+Process 13984: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 13987: 165 nodes malloced for 14 KB
+Process 13987: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 13991: 165 nodes malloced for 14 KB
+Process 13991: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 13994: 163 nodes malloced for 14 KB
+Process 13994: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 13997: 161 nodes malloced for 14 KB
+Process 13997: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 14000: 165 nodes malloced for 14 KB
+Process 14000: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 14003: 166 nodes malloced for 14 KB
+Process 14003: 0 leaks for 0 total leaked bytes.
+
+ [8:9]leaks Report Version: 4.0
+Process 14006: 165 nodes malloced for 14 KB
+Process 14006: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 14009: 163 nodes malloced for 14 KB
+Process 14009: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 14012: 165 nodes malloced for 14 KB
+Process 14012: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 14015: 163 nodes malloced for 14 KB
+Process 14015: 0 leaks for 0 total leaked bytes.
+
+ [4:9]leaks Report Version: 4.0
+Process 14018: 165 nodes malloced for 14 KB
+Process 14018: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 14021: 165 nodes malloced for 14 KB
+Process 14021: 0 leaks for 0 total leaked bytes.
+
+ [6:0]leaks Report Version: 4.0
+Process 14024: 163 nodes malloced for 14 KB
+Process 14024: 0 leaks for 0 total leaked bytes.
+
+ [4:12]leaks Report Version: 4.0
+Process 14027: 165 nodes malloced for 14 KB
+Process 14027: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 14030: 163 nodes malloced for 14 KB
+Process 14030: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 14033: 163 nodes malloced for 14 KB
+Process 14033: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 14036: 165 nodes malloced for 14 KB
+Process 14036: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 14039: 163 nodes malloced for 14 KB
+Process 14039: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 14042: 165 nodes malloced for 14 KB
+Process 14042: 0 leaks for 0 total leaked bytes.
+
+ [6:3]leaks Report Version: 4.0
+Process 14045: 165 nodes malloced for 14 KB
+Process 14045: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 14048: 165 nodes malloced for 14 KB
+Process 14048: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14051: 161 nodes malloced for 14 KB
+Process 14051: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 14055: 165 nodes malloced for 14 KB
+Process 14055: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 14058: 165 nodes malloced for 14 KB
+Process 14058: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14061: 163 nodes malloced for 14 KB
+Process 14061: 0 leaks for 0 total leaked bytes.
+
+ [8:4]leaks Report Version: 4.0
+Process 14064: 163 nodes malloced for 14 KB
+Process 14064: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 14067: 165 nodes malloced for 14 KB
+Process 14067: 0 leaks for 0 total leaked bytes.
+
+ [5:7]leaks Report Version: 4.0
+Process 14070: 165 nodes malloced for 14 KB
+Process 14070: 0 leaks for 0 total leaked bytes.
+
+ [4:7]leaks Report Version: 4.0
+Process 14073: 165 nodes malloced for 14 KB
+Process 14073: 0 leaks for 0 total leaked bytes.
+
+ [24:9]leaks Report Version: 4.0
+Process 14076: 165 nodes malloced for 14 KB
+Process 14076: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 14079: 163 nodes malloced for 14 KB
+Process 14079: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 14082: 163 nodes malloced for 14 KB
+Process 14082: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 14085: 163 nodes malloced for 14 KB
+Process 14085: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 14088: 163 nodes malloced for 14 KB
+Process 14088: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14091: 161 nodes malloced for 14 KB
+Process 14091: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14094: 161 nodes malloced for 14 KB
+Process 14094: 0 leaks for 0 total leaked bytes.
+
+ [4:15]leaks Report Version: 4.0
+Process 14097: 165 nodes malloced for 14 KB
+Process 14097: 0 leaks for 0 total leaked bytes.
+
+ [8:13]leaks Report Version: 4.0
+Process 14100: 165 nodes malloced for 14 KB
+Process 14100: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 14103: 165 nodes malloced for 14 KB
+Process 14103: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 14106: 165 nodes malloced for 14 KB
+Process 14106: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 14111: 165 nodes malloced for 14 KB
+Process 14111: 0 leaks for 0 total leaked bytes.
+
+ [18:14]leaks Report Version: 4.0
+Process 14114: 165 nodes malloced for 14 KB
+Process 14114: 0 leaks for 0 total leaked bytes.
+
+ [18:14]leaks Report Version: 4.0
+Process 14118: 165 nodes malloced for 14 KB
+Process 14118: 0 leaks for 0 total leaked bytes.
+
+ [4:24]leaks Report Version: 4.0
+Process 14121: 166 nodes malloced for 14 KB
+Process 14121: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 14124: 165 nodes malloced for 14 KB
+Process 14124: 0 leaks for 0 total leaked bytes.
+
+ [8:8]leaks Report Version: 4.0
+Process 14127: 163 nodes malloced for 14 KB
+Process 14127: 0 leaks for 0 total leaked bytes.
+
+ [7:9]leaks Report Version: 4.0
+Process 14131: 163 nodes malloced for 14 KB
+Process 14131: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 14134: 163 nodes malloced for 14 KB
+Process 14134: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 14137: 163 nodes malloced for 14 KB
+Process 14137: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14140: 163 nodes malloced for 14 KB
+Process 14140: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14143: 163 nodes malloced for 14 KB
+Process 14143: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 14146: 163 nodes malloced for 14 KB
+Process 14146: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14149: 163 nodes malloced for 16 KB
+Process 14149: 0 leaks for 0 total leaked bytes.
+
+ [7:22]leaks Report Version: 4.0
+Process 14152: 166 nodes malloced for 17 KB
+Process 14152: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 14155: 165 nodes malloced for 16 KB
+Process 14155: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14158: 161 nodes malloced for 14 KB
+Process 14158: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 14161: 163 nodes malloced for 14 KB
+Process 14161: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 14164: 163 nodes malloced for 14 KB
+Process 14164: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 14167: 163 nodes malloced for 17 KB
+Process 14167: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14170: 163 nodes malloced for 14 KB
+Process 14170: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14173: 163 nodes malloced for 14 KB
+Process 14173: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 14176: 163 nodes malloced for 14 KB
+Process 14176: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14179: 163 nodes malloced for 14 KB
+Process 14179: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14183: 163 nodes malloced for 14 KB
+Process 14183: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 14186: 163 nodes malloced for 14 KB
+Process 14186: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14189: 161 nodes malloced for 14 KB
+Process 14189: 0 leaks for 0 total leaked bytes.
+
+ [6:22]leaks Report Version: 4.0
+Process 14192: 165 nodes malloced for 14 KB
+Process 14192: 0 leaks for 0 total leaked bytes.
+
+ [5:4]leaks Report Version: 4.0
+Process 14195: 165 nodes malloced for 14 KB
+Process 14195: 0 leaks for 0 total leaked bytes.
+
+ [6:36]leaks Report Version: 4.0
+Process 14198: 167 nodes malloced for 14 KB
+Process 14198: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 14201: 165 nodes malloced for 14 KB
+Process 14201: 0 leaks for 0 total leaked bytes.
+
+ [8:26]leaks Report Version: 4.0
+Process 14204: 166 nodes malloced for 14 KB
+Process 14204: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 14207: 165 nodes malloced for 14 KB
+Process 14207: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 14210: 165 nodes malloced for 14 KB
+Process 14210: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 14213: 165 nodes malloced for 14 KB
+Process 14213: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 14216: 165 nodes malloced for 14 KB
+Process 14216: 0 leaks for 0 total leaked bytes.
+
+ [6:37]leaks Report Version: 4.0
+Process 14219: 167 nodes malloced for 14 KB
+Process 14219: 0 leaks for 0 total leaked bytes.
+
+ [6:18]leaks Report Version: 4.0
+Process 14222: 165 nodes malloced for 14 KB
+Process 14222: 0 leaks for 0 total leaked bytes.
+
+ [6:22]leaks Report Version: 4.0
+Process 14225: 165 nodes malloced for 14 KB
+Process 14225: 0 leaks for 0 total leaked bytes.
+
+ [6:16]leaks Report Version: 4.0
+Process 14231: 165 nodes malloced for 14 KB
+Process 14231: 0 leaks for 0 total leaked bytes.
+
+ [6:24]leaks Report Version: 4.0
+Process 14234: 165 nodes malloced for 14 KB
+Process 14234: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 14237: 165 nodes malloced for 14 KB
+Process 14237: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 14240: 165 nodes malloced for 14 KB
+Process 14240: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 14243: 165 nodes malloced for 14 KB
+Process 14243: 0 leaks for 0 total leaked bytes.
+
+ [4:21]leaks Report Version: 4.0
+Process 14246: 166 nodes malloced for 14 KB
+Process 14246: 0 leaks for 0 total leaked bytes.
+
+ [4:18]leaks Report Version: 4.0
+Process 14250: 165 nodes malloced for 14 KB
+Process 14250: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 14253: 163 nodes malloced for 14 KB
+Process 14253: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 14256: 163 nodes malloced for 14 KB
+Process 14256: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 14259: 163 nodes malloced for 14 KB
+Process 14259: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 14262: 163 nodes malloced for 14 KB
+Process 14262: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 14265: 163 nodes malloced for 14 KB
+Process 14265: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 14268: 163 nodes malloced for 14 KB
+Process 14268: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 14273: 163 nodes malloced for 14 KB
+Process 14273: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 14276: 163 nodes malloced for 14 KB
+Process 14276: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 14279: 163 nodes malloced for 14 KB
+Process 14279: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 14282: 161 nodes malloced for 14 KB
+Process 14282: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 14285: 163 nodes malloced for 15 KB
+Process 14285: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 14288: 163 nodes malloced for 14 KB
+Process 14288: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 14291: 163 nodes malloced for 14 KB
+Process 14291: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 14294: 165 nodes malloced for 14 KB
+Process 14294: 0 leaks for 0 total leaked bytes.
+
+ [8:12]leaks Report Version: 4.0
+Process 14297: 165 nodes malloced for 14 KB
+Process 14297: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 14300: 165 nodes malloced for 14 KB
+Process 14300: 0 leaks for 0 total leaked bytes.
+
+ [5:8]leaks Report Version: 4.0
+Process 14303: 163 nodes malloced for 14 KB
+Process 14303: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 14306: 163 nodes malloced for 14 KB
+Process 14306: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/42.cor
+leaks Report Version: 4.0
+Process 14437: 161 nodes malloced for 14 KB
+Process 14437: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Asombra.cor
+leaks Report Version: 4.0
+Process 14441: 161 nodes malloced for 14 KB
+Process 14441: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Bazou.cor
+leaks Report Version: 4.0
+Process 14444: 161 nodes malloced for 14 KB
+Process 14444: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Car.cor
+leaks Report Version: 4.0
+Process 14447: 161 nodes malloced for 14 KB
+Process 14447: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Code_eater.cor
+leaks Report Version: 4.0
+Process 14450: 161 nodes malloced for 14 KB
+Process 14450: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Douceur_power.cor
+leaks Report Version: 4.0
+Process 14453: 161 nodes malloced for 14 KB
+Process 14453: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Eraser.cor
+leaks Report Version: 4.0
+Process 14456: 161 nodes malloced for 14 KB
+Process 14456: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Explosive_Kitty.cor
+leaks Report Version: 4.0
+Process 14459: 161 nodes malloced for 14 KB
+Process 14459: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ForgottenOne.cor
+leaks Report Version: 4.0
+Process 14462: 161 nodes malloced for 14 KB
+Process 14462: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Gagnant.cor
+leaks Report Version: 4.0
+Process 14465: 161 nodes malloced for 14 KB
+Process 14465: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Hidden.cor
+leaks Report Version: 4.0
+Process 14470: 161 nodes malloced for 14 KB
+Process 14470: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Horace.cor
+leaks Report Version: 4.0
+Process 14474: 161 nodes malloced for 14 KB
+Process 14474: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Izi_Miaou.cor
+leaks Report Version: 4.0
+Process 14477: 161 nodes malloced for 14 KB
+Process 14477: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kappa.cor
+leaks Report Version: 4.0
+Process 14480: 161 nodes malloced for 14 KB
+Process 14480: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kitty_Miaou.cor
+leaks Report Version: 4.0
+Process 14483: 161 nodes malloced for 14 KB
+Process 14483: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Kittystrophic.cor
+leaks Report Version: 4.0
+Process 14486: 161 nodes malloced for 14 KB
+Process 14486: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Machine-gun.cor
+leaks Report Version: 4.0
+Process 14489: 161 nodes malloced for 14 KB
+Process 14489: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/MarineKing.cor
+leaks Report Version: 4.0
+Process 14493: 161 nodes malloced for 14 KB
+Process 14493: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/NoIdea.cor
+leaks Report Version: 4.0
+Process 14496: 161 nodes malloced for 14 KB
+Process 14496: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/O-Maley_Miaou.cor
+leaks Report Version: 4.0
+Process 14499: 161 nodes malloced for 14 KB
+Process 14499: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Octobre_Rouge_V4.2.cor
+leaks Report Version: 4.0
+Process 14502: 161 nodes malloced for 14 KB
+Process 14502: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Stargate0_1.cor
+leaks Report Version: 4.0
+Process 14508: 161 nodes malloced for 14 KB
+Process 14508: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Survivor.cor
+leaks Report Version: 4.0
+Process 14511: 161 nodes malloced for 14 KB
+Process 14511: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/THUNDER.cor
+leaks Report Version: 4.0
+Process 14514: 161 nodes malloced for 14 KB
+Process 14514: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/TheHarvester.cor
+leaks Report Version: 4.0
+Process 14517: 161 nodes malloced for 14 KB
+Process 14517: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Varimathras.cor
+leaks Report Version: 4.0
+Process 14520: 161 nodes malloced for 14 KB
+Process 14520: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/Wall.cor
+leaks Report Version: 4.0
+Process 14523: 161 nodes malloced for 14 KB
+Process 14523: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/_.cor
+leaks Report Version: 4.0
+Process 14526: 161 nodes malloced for 14 KB
+Process 14526: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/_honeybadger.cor
+leaks Report Version: 4.0
+Process 14529: 161 nodes malloced for 14 KB
+Process 14529: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/all_ops.cor
+leaks Report Version: 4.0
+Process 14532: 161 nodes malloced for 14 KB
+Process 14532: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/barriere.cor
+leaks Report Version: 4.0
+Process 14535: 161 nodes malloced for 14 KB
+Process 14535: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/big_feet.cor
+leaks Report Version: 4.0
+Process 14538: 161 nodes malloced for 14 KB
+Process 14538: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/bigzork.cor
+leaks Report Version: 4.0
+Process 14541: 161 nodes malloced for 14 KB
+Process 14541: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/casimir.cor
+leaks Report Version: 4.0
+Process 14544: 161 nodes malloced for 14 KB
+Process 14544: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comment_after_name.cor
+leaks Report Version: 4.0
+Process 14547: 161 nodes malloced for 14 KB
+Process 14547: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comment_endofline.cor
+leaks Report Version: 4.0
+Process 14550: 161 nodes malloced for 14 KB
+Process 14550: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_after_code.cor
+leaks Report Version: 4.0
+Process 14553: 161 nodes malloced for 14 KB
+Process 14553: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_between_cmd2.cor
+leaks Report Version: 4.0
+Process 14557: 161 nodes malloced for 14 KB
+Process 14557: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/comments_in_quote.cor
+leaks Report Version: 4.0
+Process 14560: 161 nodes malloced for 14 KB
+Process 14560: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/corelol.cor
+leaks Report Version: 4.0
+Process 14563: 161 nodes malloced for 14 KB
+Process 14563: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/darksasuke.cor
+leaks Report Version: 4.0
+Process 14566: 161 nodes malloced for 14 KB
+Process 14566: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/doge.cor
+leaks Report Version: 4.0
+Process 14570: 161 nodes malloced for 14 KB
+Process 14570: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/dubo.cor
+leaks Report Version: 4.0
+Process 14574: 161 nodes malloced for 14 KB
+Process 14574: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/duplicate_label.cor
+leaks Report Version: 4.0
+Process 14577: 161 nodes malloced for 14 KB
+Process 14577: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/echo.cor
+leaks Report Version: 4.0
+Process 14580: 161 nodes malloced for 14 KB
+Process 14580: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_comment.cor
+leaks Report Version: 4.0
+Process 14583: 161 nodes malloced for 14 KB
+Process 14583: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_name.cor
+leaks Report Version: 4.0
+Process 14586: 161 nodes malloced for 14 KB
+Process 14586: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/empty_name_comment.cor
+leaks Report Version: 4.0
+Process 14590: 161 nodes malloced for 14 KB
+Process 14590: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/even_bigger_load.cor
+leaks Report Version: 4.0
+Process 14596: 161 nodes malloced for 14 KB
+Process 14596: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ex.cor
+leaks Report Version: 4.0
+Process 14599: 161 nodes malloced for 14 KB
+Process 14599: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/fast.cor
+leaks Report Version: 4.0
+Process 14602: 161 nodes malloced for 14 KB
+Process 14602: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/fluttershy.cor
+leaks Report Version: 4.0
+Process 14605: 161 nodes malloced for 14 KB
+Process 14605: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/gateau.cor
+leaks Report Version: 4.0
+Process 14608: 161 nodes malloced for 14 KB
+Process 14608: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/gedeon.cor
+leaks Report Version: 4.0
+Process 14611: 161 nodes malloced for 14 KB
+Process 14611: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/helltrain.cor
+leaks Report Version: 4.0
+Process 14614: 161 nodes malloced for 14 KB
+Process 14614: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jinx.cor
+leaks Report Version: 4.0
+Process 14617: 161 nodes malloced for 14 KB
+Process 14617: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jump.cor
+leaks Report Version: 4.0
+Process 14620: 161 nodes malloced for 14 KB
+Process 14620: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/jumper.cor
+leaks Report Version: 4.0
+Process 14623: 161 nodes malloced for 14 KB
+Process 14623: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/justin_bee.cor
+leaks Report Version: 4.0
+Process 14626: 161 nodes malloced for 14 KB
+Process 14626: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/kamelkaze.cor
+leaks Report Version: 4.0
+Process 14629: 161 nodes malloced for 14 KB
+Process 14629: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/katchup.cor
+leaks Report Version: 4.0
+Process 14632: 161 nodes malloced for 14 KB
+Process 14632: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_at_end.cor
+leaks Report Version: 4.0
+Process 14636: 161 nodes malloced for 14 KB
+Process 14636: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_ok.cor
+leaks Report Version: 4.0
+Process 14639: 161 nodes malloced for 14 KB
+Process 14639: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/label_ok2.cor
+leaks Report Version: 4.0
+Process 14642: 161 nodes malloced for 14 KB
+Process 14642: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lapsang.cor
+leaks Report Version: 4.0
+Process 14645: 161 nodes malloced for 14 KB
+Process 14645: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lde.cor
+leaks Report Version: 4.0
+Process 14648: 161 nodes malloced for 14 KB
+Process 14648: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/le_pet_de_nonne.cor
+leaks Report Version: 4.0
+Process 14651: 161 nodes malloced for 14 KB
+Process 14651: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lfork.cor
+leaks Report Version: 4.0
+Process 14654: 161 nodes malloced for 14 KB
+Process 14654: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/littlepuppy.cor
+leaks Report Version: 4.0
+Process 14657: 161 nodes malloced for 14 KB
+Process 14657: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/live.cor
+leaks Report Version: 4.0
+Process 14660: 161 nodes malloced for 14 KB
+Process 14660: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/load.cor
+leaks Report Version: 4.0
+Process 14665: 161 nodes malloced for 14 KB
+Process 14665: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/long_comment_2.cor
+leaks Report Version: 4.0
+Process 14668: 161 nodes malloced for 14 KB
+Process 14668: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/loose.cor
+leaks Report Version: 4.0
+Process 14671: 161 nodes malloced for 14 KB
+Process 14671: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/lou_forktologue.cor
+leaks Report Version: 4.0
+Process 14674: 161 nodes malloced for 14 KB
+Process 14674: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/mandragore.cor
+leaks Report Version: 4.0
+Process 14677: 161 nodes malloced for 14 KB
+Process 14677: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/master_of_puppets.cor
+leaks Report Version: 4.0
+Process 14680: 161 nodes malloced for 14 KB
+Process 14680: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/max_min_int.cor
+leaks Report Version: 4.0
+Process 14683: 161 nodes malloced for 14 KB
+Process 14683: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/maxidef.cor
+leaks Report Version: 4.0
+Process 14686: 161 nodes malloced for 14 KB
+Process 14686: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/meowluigi.cor
+leaks Report Version: 4.0
+Process 14689: 161 nodes malloced for 14 KB
+Process 14689: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/moro.cor
+leaks Report Version: 4.0
+Process 14692: 161 nodes malloced for 14 KB
+Process 14692: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/mortel.cor
+leaks Report Version: 4.0
+Process 14696: 161 nodes malloced for 14 KB
+Process 14696: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/multilabel.cor
+leaks Report Version: 4.0
+Process 14699: 161 nodes malloced for 14 KB
+Process 14699: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/multilabel_end.cor
+leaks Report Version: 4.0
+Process 14702: 161 nodes malloced for 14 KB
+Process 14702: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/negative_number.cor
+leaks Report Version: 4.0
+Process 14705: 161 nodes malloced for 14 KB
+Process 14705: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_add.cor
+leaks Report Version: 4.0
+Process 14708: 161 nodes malloced for 14 KB
+Process 14708: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_aff.cor
+leaks Report Version: 4.0
+Process 14711: 161 nodes malloced for 14 KB
+Process 14711: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_and.cor
+leaks Report Version: 4.0
+Process 14714: 161 nodes malloced for 14 KB
+Process 14714: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_fork.cor
+leaks Report Version: 4.0
+Process 14717: 161 nodes malloced for 14 KB
+Process 14717: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_ld.cor
+leaks Report Version: 4.0
+Process 14720: 161 nodes malloced for 14 KB
+Process 14720: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_ldi.cor
+leaks Report Version: 4.0
+Process 14723: 161 nodes malloced for 14 KB
+Process 14723: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_live.cor
+leaks Report Version: 4.0
+Process 14726: 161 nodes malloced for 14 KB
+Process 14726: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_lld.cor
+leaks Report Version: 4.0
+Process 14729: 161 nodes malloced for 14 KB
+Process 14729: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_lldi.cor
+leaks Report Version: 4.0
+Process 14732: 161 nodes malloced for 14 KB
+Process 14732: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_or.cor
+leaks Report Version: 4.0
+Process 14735: 161 nodes malloced for 14 KB
+Process 14735: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_st.cor
+leaks Report Version: 4.0
+Process 14738: 161 nodes malloced for 14 KB
+Process 14738: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_sti.cor
+leaks Report Version: 4.0
+Process 14741: 161 nodes malloced for 14 KB
+Process 14741: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_sub.cor
+leaks Report Version: 4.0
+Process 14744: 161 nodes malloced for 14 KB
+Process 14744: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_xor.cor
+leaks Report Version: 4.0
+Process 14747: 161 nodes malloced for 14 KB
+Process 14747: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/op_zjmp.cor
+leaks Report Version: 4.0
+Process 14750: 161 nodes malloced for 14 KB
+Process 14750: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/overwatch.cor
+leaks Report Version: 4.0
+Process 14753: 161 nodes malloced for 14 KB
+Process 14753: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/pai_mu_tan.cor
+leaks Report Version: 4.0
+Process 14757: 161 nodes malloced for 14 KB
+Process 14757: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/run_Kitty_RUN.cor
+leaks Report Version: 4.0
+Process 14760: 161 nodes malloced for 14 KB
+Process 14760: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/salamahenagalabadoun.cor
+leaks Report Version: 4.0
+Process 14763: 161 nodes malloced for 14 KB
+Process 14763: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/sam_2.0.cor
+leaks Report Version: 4.0
+Process 14766: 161 nodes malloced for 14 KB
+Process 14766: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/sencha.cor
+leaks Report Version: 4.0
+Process 14769: 161 nodes malloced for 14 KB
+Process 14769: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/skynet.cor
+leaks Report Version: 4.0
+Process 14772: 161 nodes malloced for 14 KB
+Process 14772: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/slider2.cor
+leaks Report Version: 4.0
+Process 14775: 161 nodes malloced for 14 KB
+Process 14775: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/tchupka.cor
+leaks Report Version: 4.0
+Process 14778: 161 nodes malloced for 14 KB
+Process 14778: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/tdc4.cor
+leaks Report Version: 4.0
+Process 14781: 161 nodes malloced for 14 KB
+Process 14781: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/terminator.cor
+leaks Report Version: 4.0
+Process 14784: 161 nodes malloced for 14 KB
+Process 14784: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/test.cor
+leaks Report Version: 4.0
+Process 14787: 161 nodes malloced for 14 KB
+Process 14787: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/testzjmp.cor
+leaks Report Version: 4.0
+Process 14790: 161 nodes malloced for 14 KB
+Process 14790: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/testzjmp2.cor
+leaks Report Version: 4.0
+Process 14793: 161 nodes malloced for 14 KB
+Process 14793: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/toto.cor
+leaks Report Version: 4.0
+Process 14796: 161 nodes malloced for 14 KB
+Process 14796: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/turtle.cor
+leaks Report Version: 4.0
+Process 14799: 161 nodes malloced for 14 KB
+Process 14799: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/ultima.cor
+leaks Report Version: 4.0
+Process 14802: 161 nodes malloced for 14 KB
+Process 14802: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/wave.cor
+leaks Report Version: 4.0
+Process 14805: 161 nodes malloced for 14 KB
+Process 14805: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/weird_load.cor
+leaks Report Version: 4.0
+Process 14808: 161 nodes malloced for 14 KB
+Process 14808: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/youforkmytralala.cor
+leaks Report Version: 4.0
+Process 14811: 161 nodes malloced for 14 KB
+Process 14811: 0 leaks for 0 total leaked bytes.
+
+Writing output program to valid_asm/zork.cor
+leaks Report Version: 4.0
+Process 14816: 161 nodes malloced for 14 KB
+Process 14816: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16383: 161 nodes malloced for 14 KB
+Process 16383: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16386: 163 nodes malloced for 14 KB
+Process 16386: 0 leaks for 0 total leaked bytes.
+
+ [7:0]leaks Report Version: 4.0
+Process 16389: 163 nodes malloced for 14 KB
+Process 16389: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16392: 163 nodes malloced for 14 KB
+Process 16392: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16395: 163 nodes malloced for 14 KB
+Process 16395: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16398: 163 nodes malloced for 14 KB
+Process 16398: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16401: 163 nodes malloced for 14 KB
+Process 16401: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16404: 163 nodes malloced for 14 KB
+Process 16404: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16407: 163 nodes malloced for 14 KB
+Process 16407: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16410: 163 nodes malloced for 14 KB
+Process 16410: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16413: 161 nodes malloced for 14 KB
+Process 16413: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16416: 161 nodes malloced for 14 KB
+Process 16416: 0 leaks for 0 total leaked bytes.
+
+ [10:13]leaks Report Version: 4.0
+Process 16419: 166 nodes malloced for 14 KB
+Process 16419: 0 leaks for 0 total leaked bytes.
+
+ [10:11]leaks Report Version: 4.0
+Process 16422: 165 nodes malloced for 14 KB
+Process 16422: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 16425: 163 nodes malloced for 14 KB
+Process 16425: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16428: 163 nodes malloced for 14 KB
+Process 16428: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 16431: 163 nodes malloced for 14 KB
+Process 16431: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 16434: 163 nodes malloced for 14 KB
+Process 16434: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 16437: 163 nodes malloced for 14 KB
+Process 16437: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 16441: 163 nodes malloced for 16 KB
+Process 16441: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16444: 165 nodes malloced for 14 KB
+Process 16444: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16447: 165 nodes malloced for 14 KB
+Process 16447: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16450: 165 nodes malloced for 14 KB
+Process 16450: 0 leaks for 0 total leaked bytes.
+
+ [4:18]leaks Report Version: 4.0
+Process 16453: 165 nodes malloced for 14 KB
+Process 16453: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16456: 161 nodes malloced for 14 KB
+Process 16456: 0 leaks for 0 total leaked bytes.
+
+ [10:11]leaks Report Version: 4.0
+Process 16459: 165 nodes malloced for 14 KB
+Process 16459: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16464: 161 nodes malloced for 14 KB
+Process 16464: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 16467: 165 nodes malloced for 14 KB
+Process 16467: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 16470: 165 nodes malloced for 14 KB
+Process 16470: 0 leaks for 0 total leaked bytes.
+
+ [5:12]leaks Report Version: 4.0
+Process 16473: 165 nodes malloced for 14 KB
+Process 16473: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16476: 165 nodes malloced for 14 KB
+Process 16476: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16479: 165 nodes malloced for 14 KB
+Process 16479: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16482: 165 nodes malloced for 14 KB
+Process 16482: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 16485: 165 nodes malloced for 14 KB
+Process 16485: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16488: 163 nodes malloced for 14 KB
+Process 16488: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 16491: 163 nodes malloced for 14 KB
+Process 16491: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16494: 163 nodes malloced for 14 KB
+Process 16494: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16497: 161 nodes malloced for 14 KB
+Process 16497: 0 leaks for 0 total leaked bytes.
+
+ [5:5]leaks Report Version: 4.0
+Process 16500: 165 nodes malloced for 14 KB
+Process 16500: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 16504: 163 nodes malloced for 14 KB
+Process 16504: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 16507: 163 nodes malloced for 14 KB
+Process 16507: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 16510: 163 nodes malloced for 14 KB
+Process 16510: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16513: 161 nodes malloced for 14 KB
+Process 16513: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 16516: 163 nodes malloced for 14 KB
+Process 16516: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16519: 163 nodes malloced for 14 KB
+Process 16519: 0 leaks for 0 total leaked bytes.
+
+ [4:13]leaks Report Version: 4.0
+Process 16522: 165 nodes malloced for 14 KB
+Process 16522: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 16525: 165 nodes malloced for 14 KB
+Process 16525: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16528: 161 nodes malloced for 14 KB
+Process 16528: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 16531: 163 nodes malloced for 14 KB
+Process 16531: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16534: 165 nodes malloced for 14 KB
+Process 16534: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 16537: 163 nodes malloced for 14 KB
+Process 16537: 0 leaks for 0 total leaked bytes.
+
+ [8:3]leaks Report Version: 4.0
+Process 16540: 165 nodes malloced for 14 KB
+Process 16540: 0 leaks for 0 total leaked bytes.
+
+ [8:7]leaks Report Version: 4.0
+Process 16543: 165 nodes malloced for 14 KB
+Process 16543: 0 leaks for 0 total leaked bytes.
+
+ [16:3]leaks Report Version: 4.0
+Process 16546: 165 nodes malloced for 20 KB
+Process 16546: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 16549: 163 nodes malloced for 16 KB
+Process 16549: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 16552: 163 nodes malloced for 16 KB
+Process 16552: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16555: 161 nodes malloced for 14 KB
+Process 16555: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 16558: 163 nodes malloced for 14 KB
+Process 16558: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 16561: 165 nodes malloced for 14 KB
+Process 16561: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 16564: 165 nodes malloced for 14 KB
+Process 16564: 0 leaks for 0 total leaked bytes.
+
+ [5:7]leaks Report Version: 4.0
+Process 16567: 165 nodes malloced for 14 KB
+Process 16567: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 16571: 165 nodes malloced for 14 KB
+Process 16571: 0 leaks for 0 total leaked bytes.
+
+ [5:10]leaks Report Version: 4.0
+Process 16574: 165 nodes malloced for 14 KB
+Process 16574: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 16577: 165 nodes malloced for 14 KB
+Process 16577: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 16580: 165 nodes malloced for 14 KB
+Process 16580: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 16583: 163 nodes malloced for 14 KB
+Process 16583: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16586: 161 nodes malloced for 14 KB
+Process 16586: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16589: 165 nodes malloced for 14 KB
+Process 16589: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 16592: 166 nodes malloced for 14 KB
+Process 16592: 0 leaks for 0 total leaked bytes.
+
+ [8:9]leaks Report Version: 4.0
+Process 16595: 165 nodes malloced for 14 KB
+Process 16595: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 16598: 163 nodes malloced for 14 KB
+Process 16598: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16601: 165 nodes malloced for 14 KB
+Process 16601: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 16604: 163 nodes malloced for 14 KB
+Process 16604: 0 leaks for 0 total leaked bytes.
+
+ [4:9]leaks Report Version: 4.0
+Process 16607: 165 nodes malloced for 14 KB
+Process 16607: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 16610: 165 nodes malloced for 14 KB
+Process 16610: 0 leaks for 0 total leaked bytes.
+
+ [6:0]leaks Report Version: 4.0
+Process 16613: 163 nodes malloced for 14 KB
+Process 16613: 0 leaks for 0 total leaked bytes.
+
+ [4:12]leaks Report Version: 4.0
+Process 16616: 165 nodes malloced for 14 KB
+Process 16616: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 16621: 163 nodes malloced for 14 KB
+Process 16621: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 16624: 163 nodes malloced for 14 KB
+Process 16624: 0 leaks for 0 total leaked bytes.
+
+ [4:3]leaks Report Version: 4.0
+Process 16627: 165 nodes malloced for 14 KB
+Process 16627: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 16630: 163 nodes malloced for 14 KB
+Process 16630: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 16633: 165 nodes malloced for 14 KB
+Process 16633: 0 leaks for 0 total leaked bytes.
+
+ [6:3]leaks Report Version: 4.0
+Process 16637: 165 nodes malloced for 14 KB
+Process 16637: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 16641: 165 nodes malloced for 14 KB
+Process 16641: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16644: 161 nodes malloced for 14 KB
+Process 16644: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 16647: 165 nodes malloced for 14 KB
+Process 16647: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 16650: 165 nodes malloced for 14 KB
+Process 16650: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16653: 163 nodes malloced for 14 KB
+Process 16653: 0 leaks for 0 total leaked bytes.
+
+ [8:4]leaks Report Version: 4.0
+Process 16656: 163 nodes malloced for 14 KB
+Process 16656: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 16659: 165 nodes malloced for 14 KB
+Process 16659: 0 leaks for 0 total leaked bytes.
+
+ [5:7]leaks Report Version: 4.0
+Process 16662: 165 nodes malloced for 14 KB
+Process 16662: 0 leaks for 0 total leaked bytes.
+
+ [4:7]leaks Report Version: 4.0
+Process 16665: 165 nodes malloced for 14 KB
+Process 16665: 0 leaks for 0 total leaked bytes.
+
+ [24:9]leaks Report Version: 4.0
+Process 16668: 165 nodes malloced for 14 KB
+Process 16668: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 16671: 163 nodes malloced for 14 KB
+Process 16671: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 16674: 163 nodes malloced for 14 KB
+Process 16674: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 16677: 163 nodes malloced for 14 KB
+Process 16677: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 16680: 163 nodes malloced for 14 KB
+Process 16680: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16683: 161 nodes malloced for 14 KB
+Process 16683: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16686: 161 nodes malloced for 14 KB
+Process 16686: 0 leaks for 0 total leaked bytes.
+
+ [4:15]leaks Report Version: 4.0
+Process 16689: 165 nodes malloced for 14 KB
+Process 16689: 0 leaks for 0 total leaked bytes.
+
+ [8:13]leaks Report Version: 4.0
+Process 16692: 165 nodes malloced for 14 KB
+Process 16692: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 16695: 165 nodes malloced for 14 KB
+Process 16695: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 16698: 165 nodes malloced for 14 KB
+Process 16698: 0 leaks for 0 total leaked bytes.
+
+ [6:14]leaks Report Version: 4.0
+Process 16702: 165 nodes malloced for 14 KB
+Process 16702: 0 leaks for 0 total leaked bytes.
+
+ [18:14]leaks Report Version: 4.0
+Process 16705: 165 nodes malloced for 14 KB
+Process 16705: 0 leaks for 0 total leaked bytes.
+
+ [18:14]leaks Report Version: 4.0
+Process 16708: 165 nodes malloced for 14 KB
+Process 16708: 0 leaks for 0 total leaked bytes.
+
+ [4:24]leaks Report Version: 4.0
+Process 16711: 166 nodes malloced for 14 KB
+Process 16711: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16714: 165 nodes malloced for 14 KB
+Process 16714: 0 leaks for 0 total leaked bytes.
+
+ [8:8]leaks Report Version: 4.0
+Process 16717: 163 nodes malloced for 14 KB
+Process 16717: 0 leaks for 0 total leaked bytes.
+
+ [7:9]leaks Report Version: 4.0
+Process 16720: 163 nodes malloced for 14 KB
+Process 16720: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 16723: 163 nodes malloced for 14 KB
+Process 16723: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 16726: 163 nodes malloced for 14 KB
+Process 16726: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16729: 163 nodes malloced for 14 KB
+Process 16729: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16732: 163 nodes malloced for 14 KB
+Process 16732: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 16735: 163 nodes malloced for 14 KB
+Process 16735: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16738: 163 nodes malloced for 16 KB
+Process 16738: 0 leaks for 0 total leaked bytes.
+
+ [7:22]leaks Report Version: 4.0
+Process 16741: 166 nodes malloced for 17 KB
+Process 16741: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 16744: 165 nodes malloced for 16 KB
+Process 16744: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16747: 161 nodes malloced for 14 KB
+Process 16747: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 16750: 163 nodes malloced for 14 KB
+Process 16750: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 16753: 163 nodes malloced for 14 KB
+Process 16753: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16756: 163 nodes malloced for 17 KB
+Process 16756: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16759: 163 nodes malloced for 14 KB
+Process 16759: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16762: 163 nodes malloced for 14 KB
+Process 16762: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 16766: 163 nodes malloced for 14 KB
+Process 16766: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16769: 163 nodes malloced for 14 KB
+Process 16769: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16772: 163 nodes malloced for 14 KB
+Process 16772: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 16775: 163 nodes malloced for 14 KB
+Process 16775: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16778: 161 nodes malloced for 14 KB
+Process 16778: 0 leaks for 0 total leaked bytes.
+
+ [6:22]leaks Report Version: 4.0
+Process 16783: 165 nodes malloced for 14 KB
+Process 16783: 0 leaks for 0 total leaked bytes.
+
+ [5:4]leaks Report Version: 4.0
+Process 16786: 165 nodes malloced for 14 KB
+Process 16786: 0 leaks for 0 total leaked bytes.
+
+ [6:36]leaks Report Version: 4.0
+Process 16789: 167 nodes malloced for 14 KB
+Process 16789: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 16792: 165 nodes malloced for 14 KB
+Process 16792: 0 leaks for 0 total leaked bytes.
+
+ [8:26]leaks Report Version: 4.0
+Process 16795: 166 nodes malloced for 14 KB
+Process 16795: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 16798: 165 nodes malloced for 14 KB
+Process 16798: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 16801: 165 nodes malloced for 14 KB
+Process 16801: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 16804: 165 nodes malloced for 14 KB
+Process 16804: 0 leaks for 0 total leaked bytes.
+
+ [6:20]leaks Report Version: 4.0
+Process 16807: 165 nodes malloced for 14 KB
+Process 16807: 0 leaks for 0 total leaked bytes.
+
+ [6:37]leaks Report Version: 4.0
+Process 16810: 167 nodes malloced for 14 KB
+Process 16810: 0 leaks for 0 total leaked bytes.
+
+ [6:18]leaks Report Version: 4.0
+Process 16813: 165 nodes malloced for 14 KB
+Process 16813: 0 leaks for 0 total leaked bytes.
+
+ [6:22]leaks Report Version: 4.0
+Process 16816: 165 nodes malloced for 14 KB
+Process 16816: 0 leaks for 0 total leaked bytes.
+
+ [6:16]leaks Report Version: 4.0
+Process 16819: 165 nodes malloced for 14 KB
+Process 16819: 0 leaks for 0 total leaked bytes.
+
+ [6:24]leaks Report Version: 4.0
+Process 16822: 165 nodes malloced for 14 KB
+Process 16822: 0 leaks for 0 total leaked bytes.
+
+ [6:17]leaks Report Version: 4.0
+Process 16825: 165 nodes malloced for 14 KB
+Process 16825: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16828: 165 nodes malloced for 14 KB
+Process 16828: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16831: 165 nodes malloced for 14 KB
+Process 16831: 0 leaks for 0 total leaked bytes.
+
+ [4:21]leaks Report Version: 4.0
+Process 16835: 166 nodes malloced for 14 KB
+Process 16835: 0 leaks for 0 total leaked bytes.
+
+ [4:18]leaks Report Version: 4.0
+Process 16838: 165 nodes malloced for 14 KB
+Process 16838: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 16841: 163 nodes malloced for 14 KB
+Process 16841: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 16844: 163 nodes malloced for 14 KB
+Process 16844: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 16847: 163 nodes malloced for 14 KB
+Process 16847: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 16850: 163 nodes malloced for 14 KB
+Process 16850: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 16853: 163 nodes malloced for 14 KB
+Process 16853: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 16856: 163 nodes malloced for 14 KB
+Process 16856: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 16859: 163 nodes malloced for 14 KB
+Process 16859: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 16862: 163 nodes malloced for 14 KB
+Process 16862: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16865: 163 nodes malloced for 14 KB
+Process 16865: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 16868: 161 nodes malloced for 14 KB
+Process 16868: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16871: 163 nodes malloced for 15 KB
+Process 16871: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16874: 163 nodes malloced for 14 KB
+Process 16874: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 16877: 163 nodes malloced for 14 KB
+Process 16877: 0 leaks for 0 total leaked bytes.
+
+ [4:14]leaks Report Version: 4.0
+Process 16881: 165 nodes malloced for 14 KB
+Process 16881: 0 leaks for 0 total leaked bytes.
+
+ [8:12]leaks Report Version: 4.0
+Process 16884: 165 nodes malloced for 14 KB
+Process 16884: 0 leaks for 0 total leaked bytes.
+
+ [5:11]leaks Report Version: 4.0
+Process 16887: 165 nodes malloced for 14 KB
+Process 16887: 0 leaks for 0 total leaked bytes.
+
+ [5:8]leaks Report Version: 4.0
+Process 16890: 163 nodes malloced for 14 KB
+Process 16890: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 16893: 163 nodes malloced for 14 KB
+Process 16893: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 21815: 161 nodes malloced for 14 KB
+Process 21815: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 21818: 163 nodes malloced for 14 KB
+Process 21818: 0 leaks for 0 total leaked bytes.
+
+ [7:0]leaks Report Version: 4.0
+Process 21821: 163 nodes malloced for 14 KB
+Process 21821: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 21824: 163 nodes malloced for 14 KB
+Process 21824: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 21827: 163 nodes malloced for 14 KB
+Process 21827: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 21830: 163 nodes malloced for 14 KB
+Process 21830: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 21833: 163 nodes malloced for 14 KB
+Process 21833: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 21836: 163 nodes malloced for 14 KB
+Process 21836: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24524: 161 nodes malloced for 14 KB
+Process 24524: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 24527: 163 nodes malloced for 14 KB
+Process 24527: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 24530: 163 nodes malloced for 14 KB
+Process 24530: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 24533: 163 nodes malloced for 14 KB
+Process 24533: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24536: 163 nodes malloced for 14 KB
+Process 24536: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24540: 163 nodes malloced for 14 KB
+Process 24540: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24543: 163 nodes malloced for 14 KB
+Process 24543: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24546: 163 nodes malloced for 14 KB
+Process 24546: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24549: 163 nodes malloced for 14 KB
+Process 24549: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24552: 163 nodes malloced for 14 KB
+Process 24552: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24555: 163 nodes malloced for 14 KB
+Process 24555: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24558: 163 nodes malloced for 14 KB
+Process 24558: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24561: 163 nodes malloced for 14 KB
+Process 24561: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24564: 163 nodes malloced for 14 KB
+Process 24564: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 24567: 163 nodes malloced for 14 KB
+Process 24567: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24570: 163 nodes malloced for 14 KB
+Process 24570: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 24573: 163 nodes malloced for 14 KB
+Process 24573: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 24576: 163 nodes malloced for 14 KB
+Process 24576: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 24579: 163 nodes malloced for 14 KB
+Process 24579: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 24582: 163 nodes malloced for 16 KB
+Process 24582: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24585: 163 nodes malloced for 14 KB
+Process 24585: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24588: 163 nodes malloced for 14 KB
+Process 24588: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24591: 163 nodes malloced for 14 KB
+Process 24591: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24594: 163 nodes malloced for 14 KB
+Process 24594: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24597: 161 nodes malloced for 14 KB
+Process 24597: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24602: 163 nodes malloced for 14 KB
+Process 24602: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24605: 161 nodes malloced for 14 KB
+Process 24605: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24608: 163 nodes malloced for 14 KB
+Process 24608: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24611: 163 nodes malloced for 14 KB
+Process 24611: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24614: 163 nodes malloced for 14 KB
+Process 24614: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24617: 163 nodes malloced for 14 KB
+Process 24617: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24620: 163 nodes malloced for 14 KB
+Process 24620: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24625: 163 nodes malloced for 14 KB
+Process 24625: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24628: 163 nodes malloced for 14 KB
+Process 24628: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 24631: 163 nodes malloced for 14 KB
+Process 24631: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 24634: 163 nodes malloced for 14 KB
+Process 24634: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 24637: 163 nodes malloced for 14 KB
+Process 24637: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24640: 161 nodes malloced for 14 KB
+Process 24640: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24643: 163 nodes malloced for 14 KB
+Process 24643: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 24646: 163 nodes malloced for 14 KB
+Process 24646: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 24649: 163 nodes malloced for 14 KB
+Process 24649: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 24652: 163 nodes malloced for 14 KB
+Process 24652: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24655: 161 nodes malloced for 14 KB
+Process 24655: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 24658: 163 nodes malloced for 14 KB
+Process 24658: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24661: 163 nodes malloced for 14 KB
+Process 24661: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24664: 163 nodes malloced for 14 KB
+Process 24664: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24668: 163 nodes malloced for 14 KB
+Process 24668: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24671: 161 nodes malloced for 14 KB
+Process 24671: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 24674: 163 nodes malloced for 14 KB
+Process 24674: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24677: 163 nodes malloced for 14 KB
+Process 24677: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 24680: 163 nodes malloced for 14 KB
+Process 24680: 0 leaks for 0 total leaked bytes.
+
+ [8:0]leaks Report Version: 4.0
+Process 24683: 163 nodes malloced for 14 KB
+Process 24683: 0 leaks for 0 total leaked bytes.
+
+ [8:0]leaks Report Version: 4.0
+Process 24686: 163 nodes malloced for 14 KB
+Process 24686: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24689: 163 nodes malloced for 20 KB
+Process 24689: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 24692: 163 nodes malloced for 16 KB
+Process 24692: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 24695: 163 nodes malloced for 16 KB
+Process 24695: 0 leaks for 0 total leaked bytes.
+
+ [5:4]leaks Report Version: 4.0
+Process 24698: 163 nodes malloced for 14 KB
+Process 24698: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 24701: 163 nodes malloced for 14 KB
+Process 24701: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24704: 163 nodes malloced for 14 KB
+Process 24704: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24707: 163 nodes malloced for 14 KB
+Process 24707: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24710: 163 nodes malloced for 14 KB
+Process 24710: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24713: 163 nodes malloced for 14 KB
+Process 24713: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24718: 163 nodes malloced for 14 KB
+Process 24718: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24721: 163 nodes malloced for 14 KB
+Process 24721: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24724: 163 nodes malloced for 14 KB
+Process 24724: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24731: 163 nodes malloced for 14 KB
+Process 24731: 0 leaks for 0 total leaked bytes.
+
+ [6:4]leaks Report Version: 4.0
+Process 24734: 163 nodes malloced for 14 KB
+Process 24734: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24737: 163 nodes malloced for 14 KB
+Process 24737: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24743: 163 nodes malloced for 14 KB
+Process 24743: 0 leaks for 0 total leaked bytes.
+
+ [8:0]leaks Report Version: 4.0
+Process 24746: 163 nodes malloced for 14 KB
+Process 24746: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 24751: 163 nodes malloced for 14 KB
+Process 24751: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24754: 163 nodes malloced for 14 KB
+Process 24754: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 24757: 163 nodes malloced for 14 KB
+Process 24757: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24760: 163 nodes malloced for 14 KB
+Process 24760: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24764: 163 nodes malloced for 14 KB
+Process 24764: 0 leaks for 0 total leaked bytes.
+
+ [5:4]leaks Report Version: 4.0
+Process 24768: 163 nodes malloced for 14 KB
+Process 24768: 0 leaks for 0 total leaked bytes.
+
+ [4:5]leaks Report Version: 4.0
+Process 24772: 163 nodes malloced for 14 KB
+Process 24772: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24775: 163 nodes malloced for 14 KB
+Process 24775: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24778: 163 nodes malloced for 14 KB
+Process 24778: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24781: 163 nodes malloced for 14 KB
+Process 24781: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24784: 163 nodes malloced for 14 KB
+Process 24784: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24787: 163 nodes malloced for 14 KB
+Process 24787: 0 leaks for 0 total leaked bytes.
+
+ [6:0]leaks Report Version: 4.0
+Process 24790: 163 nodes malloced for 14 KB
+Process 24790: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24795: 163 nodes malloced for 14 KB
+Process 24795: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24798: 161 nodes malloced for 14 KB
+Process 24798: 0 leaks for 0 total leaked bytes.
+
+ [5:8]leaks Report Version: 4.0
+Process 24801: 163 nodes malloced for 14 KB
+Process 24801: 0 leaks for 0 total leaked bytes.
+
+ [5:8]leaks Report Version: 4.0
+Process 24804: 163 nodes malloced for 14 KB
+Process 24804: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24807: 163 nodes malloced for 14 KB
+Process 24807: 0 leaks for 0 total leaked bytes.
+
+ [6:4]leaks Report Version: 4.0
+Process 24812: 163 nodes malloced for 14 KB
+Process 24812: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24821: 163 nodes malloced for 14 KB
+Process 24821: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24824: 163 nodes malloced for 14 KB
+Process 24824: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24827: 163 nodes malloced for 14 KB
+Process 24827: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 24830: 163 nodes malloced for 14 KB
+Process 24830: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24833: 163 nodes malloced for 14 KB
+Process 24833: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24836: 163 nodes malloced for 14 KB
+Process 24836: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 24839: 163 nodes malloced for 14 KB
+Process 24839: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 24842: 163 nodes malloced for 14 KB
+Process 24842: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24845: 161 nodes malloced for 14 KB
+Process 24845: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24848: 161 nodes malloced for 14 KB
+Process 24848: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24852: 163 nodes malloced for 14 KB
+Process 24852: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24861: 163 nodes malloced for 14 KB
+Process 24861: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24864: 163 nodes malloced for 14 KB
+Process 24864: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24867: 163 nodes malloced for 14 KB
+Process 24867: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24870: 163 nodes malloced for 14 KB
+Process 24870: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24873: 163 nodes malloced for 14 KB
+Process 24873: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24876: 163 nodes malloced for 14 KB
+Process 24876: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24879: 163 nodes malloced for 14 KB
+Process 24879: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24882: 163 nodes malloced for 14 KB
+Process 24882: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24885: 163 nodes malloced for 14 KB
+Process 24885: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24888: 163 nodes malloced for 14 KB
+Process 24888: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 24893: 163 nodes malloced for 14 KB
+Process 24893: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 24898: 163 nodes malloced for 14 KB
+Process 24898: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24901: 163 nodes malloced for 14 KB
+Process 24901: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24904: 163 nodes malloced for 14 KB
+Process 24904: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 24907: 163 nodes malloced for 14 KB
+Process 24907: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24912: 163 nodes malloced for 16 KB
+Process 24912: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 24915: 163 nodes malloced for 17 KB
+Process 24915: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 24918: 163 nodes malloced for 16 KB
+Process 24918: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24921: 163 nodes malloced for 14 KB
+Process 24921: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 24924: 163 nodes malloced for 14 KB
+Process 24924: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 24927: 163 nodes malloced for 14 KB
+Process 24927: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 24930: 163 nodes malloced for 17 KB
+Process 24930: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24933: 163 nodes malloced for 14 KB
+Process 24933: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24936: 163 nodes malloced for 14 KB
+Process 24936: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 24939: 163 nodes malloced for 14 KB
+Process 24939: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24942: 163 nodes malloced for 14 KB
+Process 24942: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 24945: 163 nodes malloced for 14 KB
+Process 24945: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 24948: 163 nodes malloced for 14 KB
+Process 24948: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 24951: 163 nodes malloced for 14 KB
+Process 24951: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24954: 163 nodes malloced for 14 KB
+Process 24954: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 24957: 163 nodes malloced for 14 KB
+Process 24957: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24961: 163 nodes malloced for 14 KB
+Process 24961: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24964: 163 nodes malloced for 14 KB
+Process 24964: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24967: 163 nodes malloced for 14 KB
+Process 24967: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24972: 163 nodes malloced for 14 KB
+Process 24972: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24975: 163 nodes malloced for 14 KB
+Process 24975: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24978: 163 nodes malloced for 14 KB
+Process 24978: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24981: 163 nodes malloced for 14 KB
+Process 24981: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24984: 163 nodes malloced for 14 KB
+Process 24984: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24987: 163 nodes malloced for 14 KB
+Process 24987: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24990: 163 nodes malloced for 14 KB
+Process 24990: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24993: 163 nodes malloced for 14 KB
+Process 24993: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24996: 163 nodes malloced for 14 KB
+Process 24996: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 24999: 163 nodes malloced for 14 KB
+Process 24999: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25002: 163 nodes malloced for 14 KB
+Process 25002: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25005: 163 nodes malloced for 14 KB
+Process 25005: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25008: 163 nodes malloced for 14 KB
+Process 25008: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25011: 163 nodes malloced for 14 KB
+Process 25011: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 25014: 163 nodes malloced for 14 KB
+Process 25014: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 25017: 163 nodes malloced for 14 KB
+Process 25017: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 25020: 163 nodes malloced for 14 KB
+Process 25020: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 25024: 163 nodes malloced for 14 KB
+Process 25024: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 25027: 163 nodes malloced for 14 KB
+Process 25027: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 25030: 163 nodes malloced for 14 KB
+Process 25030: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 25033: 163 nodes malloced for 14 KB
+Process 25033: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 25036: 163 nodes malloced for 14 KB
+Process 25036: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 25042: 163 nodes malloced for 14 KB
+Process 25042: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 25045: 161 nodes malloced for 14 KB
+Process 25045: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 25048: 163 nodes malloced for 15 KB
+Process 25048: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 25051: 163 nodes malloced for 14 KB
+Process 25051: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 25056: 163 nodes malloced for 14 KB
+Process 25056: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25059: 163 nodes malloced for 14 KB
+Process 25059: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25062: 163 nodes malloced for 14 KB
+Process 25062: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25065: 163 nodes malloced for 14 KB
+Process 25065: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25068: 163 nodes malloced for 14 KB
+Process 25068: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 25071: 163 nodes malloced for 14 KB
+Process 25071: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12306: 165 nodes malloced for 14 KB
+Process 12306: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12310: 163 nodes malloced for 14 KB
+Process 12310: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 12315: 165 nodes malloced for 14 KB
+Process 12315: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 12319: 165 nodes malloced for 14 KB
+Process 12319: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12323: 165 nodes malloced for 14 KB
+Process 12323: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12329: 165 nodes malloced for 14 KB
+Process 12329: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12333: 165 nodes malloced for 14 KB
+Process 12333: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12337: 165 nodes malloced for 14 KB
+Process 12337: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12341: 165 nodes malloced for 14 KB
+Process 12341: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12345: 165 nodes malloced for 14 KB
+Process 12345: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12349: 165 nodes malloced for 14 KB
+Process 12349: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12353: 165 nodes malloced for 14 KB
+Process 12353: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12357: 165 nodes malloced for 14 KB
+Process 12357: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12361: 165 nodes malloced for 14 KB
+Process 12361: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12366: 165 nodes malloced for 14 KB
+Process 12366: 0 leaks for 0 total leaked bytes.
+
+ [4:7]leaks Report Version: 4.0
+Process 12371: 165 nodes malloced for 14 KB
+Process 12371: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 12392: 165 nodes malloced for 14 KB
+Process 12392: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12396: 165 nodes malloced for 14 KB
+Process 12396: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 12413: 165 nodes malloced for 14 KB
+Process 12413: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 12422: 165 nodes malloced for 14 KB
+Process 12422: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12426: 165 nodes malloced for 14 KB
+Process 12426: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12430: 165 nodes malloced for 14 KB
+Process 12430: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12434: 165 nodes malloced for 16 KB
+Process 12434: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 12438: 165 nodes malloced for 14 KB
+Process 12438: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 12442: 165 nodes malloced for 16 KB
+Process 12442: 0 leaks for 0 total leaked bytes.
+
+ [3:19]leaks Report Version: 4.0
+Process 12446: 165 nodes malloced for 16 KB
+Process 12446: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12451: 165 nodes malloced for 14 KB
+Process 12451: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12455: 165 nodes malloced for 14 KB
+Process 12455: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12459: 165 nodes malloced for 14 KB
+Process 12459: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12463: 165 nodes malloced for 14 KB
+Process 12463: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12467: 163 nodes malloced for 14 KB
+Process 12467: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12471: 165 nodes malloced for 14 KB
+Process 12471: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12477: 163 nodes malloced for 14 KB
+Process 12477: 0 leaks for 0 total leaked bytes.
+
+ [5:19]leaks Report Version: 4.0
+Process 12481: 165 nodes malloced for 14 KB
+Process 12481: 0 leaks for 0 total leaked bytes.
+
+ [7:1]leaks Report Version: 4.0
+Process 12485: 165 nodes malloced for 16 KB
+Process 12485: 0 leaks for 0 total leaked bytes.
+
+ [4:8]leaks Report Version: 4.0
+Process 12489: 165 nodes malloced for 14 KB
+Process 12489: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12493: 165 nodes malloced for 14 KB
+Process 12493: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12497: 165 nodes malloced for 14 KB
+Process 12497: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12502: 165 nodes malloced for 14 KB
+Process 12502: 0 leaks for 0 total leaked bytes.
+
+ [2:0]leaks Report Version: 4.0
+Process 12506: 165 nodes malloced for 14 KB
+Process 12506: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12510: 163 nodes malloced for 14 KB
+Process 12510: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12514: 163 nodes malloced for 14 KB
+Process 12514: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12518: 165 nodes malloced for 14 KB
+Process 12518: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12522: 165 nodes malloced for 14 KB
+Process 12522: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12526: 165 nodes malloced for 14 KB
+Process 12526: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12530: 165 nodes malloced for 14 KB
+Process 12530: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12534: 165 nodes malloced for 14 KB
+Process 12534: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12538: 165 nodes malloced for 14 KB
+Process 12538: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12542: 165 nodes malloced for 14 KB
+Process 12542: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12546: 163 nodes malloced for 14 KB
+Process 12546: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12551: 163 nodes malloced for 14 KB
+Process 12551: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12555: 165 nodes malloced for 14 KB
+Process 12555: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12559: 165 nodes malloced for 14 KB
+Process 12559: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12563: 165 nodes malloced for 14 KB
+Process 12563: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12567: 165 nodes malloced for 14 KB
+Process 12567: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12571: 165 nodes malloced for 14 KB
+Process 12571: 0 leaks for 0 total leaked bytes.
+
+ [11:7]leaks Report Version: 4.0
+Process 12575: 165 nodes malloced for 14 KB
+Process 12575: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12579: 165 nodes malloced for 14 KB
+Process 12579: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 12583: 165 nodes malloced for 14 KB
+Process 12583: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 12587: 165 nodes malloced for 14 KB
+Process 12587: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12591: 165 nodes malloced for 14 KB
+Process 12591: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12597: 165 nodes malloced for 14 KB
+Process 12597: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12602: 165 nodes malloced for 16 KB
+Process 12602: 0 leaks for 0 total leaked bytes.
+
+ [4:10]leaks Report Version: 4.0
+Process 12606: 165 nodes malloced for 17 KB
+Process 12606: 0 leaks for 0 total leaked bytes.
+
+ [4:4]leaks Report Version: 4.0
+Process 12610: 165 nodes malloced for 16 KB
+Process 12610: 0 leaks for 0 total leaked bytes.
+
+ [25:0]leaks Report Version: 4.0
+Process 12614: 165 nodes malloced for 14 KB
+Process 12614: 0 leaks for 0 total leaked bytes.
+
+ [25:0]leaks Report Version: 4.0
+Process 12618: 165 nodes malloced for 14 KB
+Process 12618: 0 leaks for 0 total leaked bytes.
+
+ [25:0]leaks Report Version: 4.0
+Process 12622: 165 nodes malloced for 14 KB
+Process 12622: 0 leaks for 0 total leaked bytes.
+
+ [25:0]leaks Report Version: 4.0
+Process 12626: 165 nodes malloced for 14 KB
+Process 12626: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12630: 163 nodes malloced for 14 KB
+Process 12630: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12634: 165 nodes malloced for 14 KB
+Process 12634: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 12638: 165 nodes malloced for 14 KB
+Process 12638: 0 leaks for 0 total leaked bytes.
+
+ [25:0]leaks Report Version: 4.0
+Process 12642: 165 nodes malloced for 14 KB
+Process 12642: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12647: 163 nodes malloced for 14 KB
+Process 12647: 0 leaks for 0 total leaked bytes.
+
+ [7:0]leaks Report Version: 4.0
+Process 12651: 165 nodes malloced for 14 KB
+Process 12651: 0 leaks for 0 total leaked bytes.
+
+ [5:18]leaks Report Version: 4.0
+Process 12655: 165 nodes malloced for 14 KB
+Process 12655: 0 leaks for 0 total leaked bytes.
+
+ [5:18]leaks Report Version: 4.0
+Process 12659: 165 nodes malloced for 14 KB
+Process 12659: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12663: 165 nodes malloced for 14 KB
+Process 12663: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 12667: 165 nodes malloced for 14 KB
+Process 12667: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 12671: 165 nodes malloced for 14 KB
+Process 12671: 0 leaks for 0 total leaked bytes.
+
+ [5:19]leaks Report Version: 4.0
+Process 12675: 165 nodes malloced for 14 KB
+Process 12675: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 12679: 165 nodes malloced for 17 KB
+Process 12679: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12683: 165 nodes malloced for 14 KB
+Process 12683: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12687: 165 nodes malloced for 14 KB
+Process 12687: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 12691: 165 nodes malloced for 14 KB
+Process 12691: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12696: 165 nodes malloced for 14 KB
+Process 12696: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12700: 165 nodes malloced for 14 KB
+Process 12700: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 12704: 165 nodes malloced for 14 KB
+Process 12704: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12708: 165 nodes malloced for 14 KB
+Process 12708: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12712: 165 nodes malloced for 14 KB
+Process 12712: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 12718: 165 nodes malloced for 14 KB
+Process 12718: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12722: 165 nodes malloced for 14 KB
+Process 12722: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12726: 165 nodes malloced for 14 KB
+Process 12726: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12730: 165 nodes malloced for 14 KB
+Process 12730: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12734: 165 nodes malloced for 14 KB
+Process 12734: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12738: 165 nodes malloced for 14 KB
+Process 12738: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12742: 165 nodes malloced for 14 KB
+Process 12742: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12747: 165 nodes malloced for 14 KB
+Process 12747: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12751: 165 nodes malloced for 14 KB
+Process 12751: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12755: 165 nodes malloced for 14 KB
+Process 12755: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12759: 165 nodes malloced for 14 KB
+Process 12759: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12763: 165 nodes malloced for 14 KB
+Process 12763: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12767: 165 nodes malloced for 14 KB
+Process 12767: 0 leaks for 0 total leaked bytes.
+
+ [6:12]leaks Report Version: 4.0
+Process 12771: 165 nodes malloced for 14 KB
+Process 12771: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12775: 165 nodes malloced for 14 KB
+Process 12775: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12779: 165 nodes malloced for 14 KB
+Process 12779: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12783: 165 nodes malloced for 14 KB
+Process 12783: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12787: 165 nodes malloced for 14 KB
+Process 12787: 0 leaks for 0 total leaked bytes.
+
+ [2:8]leaks Report Version: 4.0
+Process 12791: 165 nodes malloced for 14 KB
+Process 12791: 0 leaks for 0 total leaked bytes.
+
+ [2:9]leaks Report Version: 4.0
+Process 12796: 165 nodes malloced for 14 KB
+Process 12796: 0 leaks for 0 total leaked bytes.
+
+ [2:10]leaks Report Version: 4.0
+Process 12800: 165 nodes malloced for 14 KB
+Process 12800: 0 leaks for 0 total leaked bytes.
+
+ [2:11]leaks Report Version: 4.0
+Process 12804: 165 nodes malloced for 14 KB
+Process 12804: 0 leaks for 0 total leaked bytes.
+
+ [1:5]leaks Report Version: 4.0
+Process 12808: 165 nodes malloced for 14 KB
+Process 12808: 0 leaks for 0 total leaked bytes.
+
+ [1:6]leaks Report Version: 4.0
+Process 12812: 165 nodes malloced for 14 KB
+Process 12812: 0 leaks for 0 total leaked bytes.
+
+ [1:7]leaks Report Version: 4.0
+Process 12816: 165 nodes malloced for 14 KB
+Process 12816: 0 leaks for 0 total leaked bytes.
+
+ [1:8]leaks Report Version: 4.0
+Process 12820: 165 nodes malloced for 14 KB
+Process 12820: 0 leaks for 0 total leaked bytes.
+
+ [13:4]leaks Report Version: 4.0
+Process 12824: 165 nodes malloced for 14 KB
+Process 12824: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 12828: 165 nodes malloced for 14 KB
+Process 12828: 0 leaks for 0 total leaked bytes.
+
+ [3:0]leaks Report Version: 4.0
+Process 12832: 165 nodes malloced for 14 KB
+Process 12832: 0 leaks for 0 total leaked bytes.
+
+ [5:0]leaks Report Version: 4.0
+Process 12838: 165 nodes malloced for 14 KB
+Process 12838: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12843: 165 nodes malloced for 14 KB
+Process 12843: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12847: 165 nodes malloced for 14 KB
+Process 12847: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12851: 165 nodes malloced for 14 KB
+Process 12851: 0 leaks for 0 total leaked bytes.
+
+ [2:3]leaks Report Version: 4.0
+Process 12855: 165 nodes malloced for 14 KB
+Process 12855: 0 leaks for 0 total leaked bytes.
+
+ [4:0]leaks Report Version: 4.0
+Process 12859: 165 nodes malloced for 17 KB
+Process 12859: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12863: 165 nodes malloced for 14 KB
+Process 12863: 0 leaks for 0 total leaked bytes.
+
+ [4:11]leaks Report Version: 4.0
+Process 12867: 165 nodes malloced for 14 KB
+Process 12867: 0 leaks for 0 total leaked bytes.
+
+leaks Report Version: 4.0
+Process 12871: 163 nodes malloced for 14 KB
+Process 12871: 0 leaks for 0 total leaked bytes.
+

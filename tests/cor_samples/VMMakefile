@@ -1,0 +1,73 @@
+
+CORE     := corewar
+LIBFT   := libft.a
+
+#COMPILATION
+CC      := gcc
+CFLAGS  := -Wall -Werror -Wextra
+
+#INCLUDES
+INCL_CORE    := -I ./INCLUDES/
+
+#LIBRAIRIE
+INCL_LFT    := -I ../libft/
+LIB 		= -L ../libft/ -lft
+
+#CLEAN & FCLEAN
+RM_DIR  := rm -rf
+RM      := rm -f
+
+SRC_DIR := ./SRC/
+FILES    := check.c	\
+			exit.c	\
+			get_arg_types.c	\
+			get_args.c	\
+			get_oparg_values.c	\
+			init_carriages.c	\
+			main.c	\
+			op_add_sub.c	\
+			op_aff.c	\
+			op_bitwise.c	\
+			op_fork.c	\
+			op_ld.c	\
+			op_live.c	\
+			op_lld.c	\
+			op_st.c		\
+			op_zjmp.c	\
+			place_champs.c	\
+			print.c	\
+			read_champs.c	\
+			run_carriages.c	\
+			set_player_order.c	\
+			the_cycle.c	\
+			utils.c	\
+
+
+#OBJECTS
+CORE_OBJ_DIR := ./OBJ/
+CORE_OBJ     := $(addprefix $(CORE_OBJ_DIR), $(FILES:%.c=%.o))
+
+all: $(CORE)
+
+$(CORE): $(CORE_OBJ)
+	@$(CC) $(CFLAGS) -o $(CORE) $(CORE_OBJ) $(LIB)
+
+$(CORE_OBJ_DIR)%.o:$(SRC_DIR)%.c
+	@make -sC ../libft/
+	@mkdir -p $(CORE_OBJ_DIR)
+	@$(CC) $(CFLAGS) $(INCL_LFT) $(INCL_CORE) -o $@ -c $<
+
+$(LIBFT):
+	make -sC ../libft/
+
+clean:
+	make -sC ../libft/ clean
+	$(RM_DIR) $(CORE_OBJ_DIR) 
+
+fclean: clean
+	make -sC ../libft/ fclean
+	$(RM) $(CORE) 
+
+re: fclean all
+
+.PHONY: all clean fclean re

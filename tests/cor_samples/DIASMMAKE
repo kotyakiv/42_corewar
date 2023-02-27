@@ -1,0 +1,53 @@
+DISASM    := disasm
+LIBFT   := libft.a
+
+#COMPILATION
+CC      := gcc
+CFLAGS  := -Wall -Werror -Wextra
+
+#INCLUDES
+INCL_DISASM    := -I ./INCLUDES/
+
+#LIBRAIRIE
+INCL_LFT    := -I ../libft/
+LIB 		= -L ../libft/ -lft
+
+#CLEAN & FCLEAN
+RM_DIR  := rm -rf
+RM      := rm -f
+
+SRC_DIR := ./SRC/
+FILES    := 	check_input_file.c	\
+				dis_opcode.c	\
+				main.c	\
+				read_write_arg.c \
+				utils.c \
+
+#OBJECTS
+DISASM_OBJ_DIR := ./OBJ/
+DISASM_OBJ     := $(addprefix $(DISASM_OBJ_DIR), $(FILES:%.c=%.o))
+
+all: $(DISASM)
+
+$(DISASM): $(LIBFT) $(DISASM_OBJ)
+	@$(CC) $(CFLAGS) -o $(DISASM) $(DISASM_OBJ) $(LIB)
+
+$(DISASM_OBJ_DIR)%.o:$(SRC_DIR)%.c
+	@make -sC ../libft/
+	@mkdir -p $(DISASM_OBJ_DIR)
+	@$(CC) $(CFLAGS) $(INCL_LFT) $(INCL_DISASM) -o $@ -c $<
+
+$(LIBFT):
+	make -sC ../libft/
+
+clean:
+	make -sC ../libft/ clean
+	$(RM_DIR) $(DISASM_OBJ_DIR) 
+
+fclean: clean
+	make -sC ../libft/ fclean
+	$(RM) $(DISASM)
+
+re: fclean all
+
+.PHONY: all clean fclean re

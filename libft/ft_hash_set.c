@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_hash_set.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
+/*   By: briffard <briffard@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/14 12:29:03 by ykot              #+#    #+#             */
-/*   Updated: 2023/01/20 23:55:23 by ykot             ###   ########.fr       */
+/*   Updated: 2023/02/19 12:22:13 by briffard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ int	ft_hash_set(t_list **hashmap, char *str, void *ptr)
 	value->name = str;
 	value->ptr = ptr;
 	key = ft_hash_key(str, HASH);
-	new = ft_lstnewptr((void *)value);
+	new = ft_lstnew_pointer((void *)value);
 	if (!new)
 	{
 		free(value);

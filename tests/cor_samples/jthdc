@@ -1,0 +1,30 @@
+ASM := assembler
+VM := corewar
+DISASM := disassembler
+
+
+
+all: $(ASM) $(VM) $(DISASM)
+
+$(ASM):
+	make -sC ./ASM/
+
+$(VM):
+	make -sC ./VM/
+
+$(DISASM):
+	make -sC ./DISASM/
+
+clean:
+	make -sC ./ASM/ clean
+	make -sC ./VM/ clean
+	make -sC ./DISASM/ clean
+
+fclean: clean
+	make -sC ./ASM/ fclean
+	make -sC ./VM/ fclean
+	make -sC ./DISASM/ fclean
+re:
+	make -sC ./ASM/ re
+	make -sC ./VM/ re
+	make -sC ./DISASM/ re

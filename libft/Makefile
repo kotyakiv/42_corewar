@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+         #
+#    By: briffard <briffard@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/02 23:20:01 by ykot              #+#    #+#              #
-#    Updated: 2022/11/18 16:47:18 by ykot             ###   ########.fr        #
+#    Updated: 2023/02/19 12:35:40 by briffard         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -34,7 +34,6 @@ SRC = 		ft_atoi.c \
 			ft_strcpy.c \
 			ft_strmapi.c \
 			ft_strsub.c \
-			ft_ischarinstr.c \
 			ft_isascii.c \
 			ft_memccpy.c \
 			ft_putendl_fd.c \
@@ -98,23 +97,14 @@ SRC = 		ft_atoi.c \
 			ft_hash_get.c \
 			ft_hash_isin.c \
 			ft_hash_key.c \
-			ft_hash_set.c
+			ft_hash_set.c \
+			ft_abs_value.c \
+			ft_itoa_base.c \
+			ft_itoa_base_upper.c \
+			ft_power.c	\
+			ft_ischarinstr.c \
 
-SRC_PF = 	ft_printf.c \
-			print_conversion.c \
-			conversion_specification.c \
-			print_decimal.c \
-			sub_functions.c \
-			print_flags.c \
-			print_unsigned.c \
-			checking.c \
-			reading_option.c \
-			width_precision.c \
-			print_scp.c \
-			print_float.c \
-			print_float2.c \
-			print_float3.c \
-			rounding.c
+SRC_PF = 	*.c
 
 OBJ = $(SRC:.c=.o)
 OBJ_PF = $(SRC_PF:.c=.o)
