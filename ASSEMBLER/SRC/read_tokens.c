@@ -6,7 +6,7 @@
 /*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/27 15:10:58 by ykot              #+#    #+#             */
-/*   Updated: 2023/02/27 12:36:24 by ykot             ###   ########.fr       */
+/*   Updated: 2023/03/01 09:20:03 by ykot             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ u_int8_t	is_op(char *line)
 	i = 0;
 	while (i < 16)
 	{
-		b = ft_strncmp(line, g_optab[i].name, ft_strlen(g_optab[i].name);
+		b = ft_strncmp(line, g_optab[i].name, ft_strlen(g_optab[i].name));
 		if (b == 0)
 			return (i + 1);
 		++i;
