@@ -6,7 +6,7 @@
 /*   By: ykot <ykot@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/27 15:10:58 by ykot              #+#    #+#             */
-/*   Updated: 2023/03/01 09:25:24 by ykot             ###   ########.fr       */
+/*   Updated: 2023/03/06 09:47:01 by ykot             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,7 +45,7 @@ static void	is_right_type(t_data *data, t_op_data *temp_op, int8_t arg_num)
 
 void	read_tokens(t_data *data, char **tokens, t_op_data *temp_op)
 {
-	u_int32_t	i;
+	u_int8_t	i;
 	char		*temp;
 
 	if (data->flags.sep + 1 != g_optab[temp_op->num_op - 1].num_arg)
